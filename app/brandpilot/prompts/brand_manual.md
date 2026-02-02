@@ -1,315 +1,873 @@
 # Antwerpen Brand Manual
+## 1.0 Merkstrategie
 
-## 1. Merk
+### 1.0.1 Kernidee, vertrekpunt en DNA
+**Kernidee**  
+We geloven dat vernieuwing, verbetering en vooruitgang de stad zuurstof bieden en dat sociale cohesie in onze samenleving daarvoor essentieel is.
 
-### 1.1 Brand name
-- **Antwerpen**
+Het merk stad Antwerpen vertrekt vanuit het Antwerpse DNA.
 
-### 1.2 Brand strategy
-**Guidelines**  
-De merkstrategie bundelt de lefgozerslogica van ’t Stad: waar we voor gaan, voor wie we het doen en hoe we dat consequent laten voelen. Je krijgt helder zicht op onze doelgroepen en waarden. Deze strategie is de stevige onderbouw voor alle stedelijke projecten en stuurt: de communicatie errond én de vormtaal van merk Antwerpen (merkarchitectuur, huisstijl: beeldtaal, redactionele richtlijnen, …).
+**De basis: een gezonde dosis lef**  
+Als ondernemend volk zijn we steeds op zoek naar meer, naar beter. Zien we kansen? Dan grijpen we ze. We dagen onszelf uit met een creatieve, kritische blik. We zijn eigenzinnige doorzetters. Als we iets willen, dan gaan we daar 100% voor. Dit resulteert in 3 kernwaarden:
 
-#### 1.2.1 Purpose
-- **Value**: Vernieuwing geeft zuurstof aan Antwerpen. Verbetering en vooruitgang maken ’t Stad sterker. En samenhang – mensen die mekaar vinden en vasthouden – is de motor.
-- **Guidelines**: Alles vertrekt vanuit ons Antwerps DNA: rechtuit, creatief, met schwung en schouders eronder.
+- creatief om het potentieel in dingen te zien  
+- flamboyant om zelfzeker een uniek pad te bewandelen  
+- met een drive om onvermoeibaar doelen te realiseren  
 
-#### 1.2.2 Value pillars
-**Guidelines**  
-Onze basis? Gezond lef. We zijn een ondernemende stad: altijd honger naar meer en beter. Zien we een kans, dan pakken we ze. Met een kritische, creatieve blik, koppig volhoudend. Willen we iets, dan gaan we er 100% voor. Dat vertaalt zich in 3 kernwaarden.
+### 1.0.2 Rol en gebruik (waarvoor dient dit)
+In de merkstrategie vind je de uitgangspunten en ambities van stad Antwerpen. Je krijgt een beeld van de doelgroepen waar we ons op richten en de waarden waar we als stad voor staan. De merkstrategie vormt de onderbouw voor alle stedelijke projecten en geeft richting aan:
 
-- **Creatief**: we zien potentieel in alles en iedereen.
-- **Flamboyant**: zelfzeker en eigenzinnig op ons pad.
-- **Gedreven**: met goesting en uithouding doelen halen.
+- de communicatie over deze projecten;
+- de vormelijke elementen van het merk stad Antwerpen, zoals de merkarchitectuur en de huisstijl (beeldtaal, redactionele richtlijnen, …).
 
-#### 1.2.3 Mission
-**Guidelines**  
-Hoe maken we onze strategie tastbaar?
+**Toepassing**  
+Werk je mee aan een project van stad Antwerpen? Zorg ervoor dat het project en de communicatie in lijn liggen met de merkstrategie van de stad.
 
-- **Mission**: Ga voor een onderscheidend aanbod dat vooruitgang, vernieuwing en verbetering brengt voor de stad én sociale cohesie versterkt.
-
-#### 1.2.4 Personality
-**Guidelines**  
-Communiceer altijd verbindend en toets aan de merkcriteria. Bots je op iets dat onze kern tegenspreekt? Bijsturen.
-
-##### Archetypes
-| Archetype | Weight | Guidelines |
-|---|---:|---|
-| Everyperson | 36.8% | We spreken en handelen als een van jullie: inclusief, herkenbaar, zonder poeha. |
-| Hero | 26.3% | We durven vooruit en pakken aan. Resultaat telt, voor iedereen in de stad. |
-| Creator | 21.1% | We maken nieuwe dingen mogelijk: eigenzinnig, vindingrijk, met oog voor kwaliteit. |
-| Jester | 15.8% | Licht, speels en ontwapenend wanneer het kan. Een knipoog werkt. |
-
-##### Traits
-**Guidelines**  
-Laat deze eigenschappen zichtbaar zijn in woord, beeld en gedrag.
-
-- Verbindend  
-- Rechttoe rechtaan  
-- Positief  
-- Vernieuwend  
-- Goesting gevend  
-- Gedurfd  
-- Authentiek  
+Gebruik dit Merkstrategie-platform voor richtlijnen over de inhoud, doelen en ambities van je project. Je gids voor de visuele uitwerking van een project is het Merk en huisstijl-platform.
 
 ---
 
-## 2. Tone of voice
+### 1.0.3 Merkcriteria (toetssteen voor elk project en elke communicatie)
 
-### 2.1 Core principles
-- **Authentiek**: Wees echt en geloofwaardig.
-- **Goesting gevend**: Maak zin op een open, toegankelijke manier.
-- **Vernieuwend**: Verras en denk anders.
-- **Gedurfd**: Toon lef en zelfvertrouwen.
-- **Positief**: Hou het energiek en opbouwend.
-- **Rechttoe rechtaan**: Zeg wat je te zeggen hebt. Klaar.
-- **Verbinden**: Communiceer verbindend (= must).
+**Overzicht criteria**
+- Authentiek
+- Goesting gevend
+- Vernieuwend
+- Gedurfd
+- Positief
+- Rechttoe rechtaan
+- Verbinden (= must)
 
-#### Voorbeelden (core principles)
-- **Activerend**:  
-  “Spreek aan. Leid de aandacht af. Blijf erbij. Betrek anderen. Een klein gebaar maakt verschil. Ontdek hoe je kan reageren op allemaalantwerpenaar.be.”
-- **Actie**:  
-  “Homofobe uitspraken? Zeg je vrienden dat dit niet kan. Leid de aandacht af. Wordt iemand lastiggevallen? Doe alsof je die persoon kent. Blijf aanwezig. Zie je iets wat niet oké is? Blijf in de buurt. Betrek anderen. Wordt iemand gepest? Meld het.”
-- **Campagnes**:  
-  “Hier respecteren we elkaars grenzen. Allemaal Antwerpenaar. Maak liever een selfie. Klets niet op iemands billen. Klets liever met elkaar. Geef geen seksuele opmerkingen. Geef liever een rondje. Reageer altijd op discriminatie.”
+**Altijd verbinden (must)**
+Als stad willen we het vertrouwen krijgen van onze doelgroepen. Communiceer daarom steeds op een verbindende manier. Enkele richtlijnen:
+- Houd rekening met de diversiteit in onze doelgroepen.
+- Ga op zoek naar een gemeenschappelijke basis.
+- Vermijd stereotiepen en sluit geen bevolkingsgroepen uit.
+- X Stigmatiseer nooit en sluit geen doelgroepen uit.  
+- ✓ Communiceer verbindend — dit is een must voor alle communicatie.
 
-### 2.2 Drivers (met do/don’t)
-#### 2.2.1 Communiceer verbindend (MUST)
-- We willen vertrouwen verdienen. Spreek dus altijd verbindend.
-- Hou rekening met de diversiteit in onze doelgroepen.
-- Zoek de gemeenschappelijke grond.
-- Vermijd stereotiepen en sluit niemand uit.
-- ❌ Nooit stigmatiseren.
-- ⭐ Dit is een must in alle communicatie.
+**Authentiek**
+Alles wat de stad doet, draait om echte mensen. Zorg er dus voor dat mensen zich herkennen in je communicatie:
+- Let erop dat je boodschap oprecht overkomt.
+- Vermijd afgelikte beelden die aanvoelen als stockfoto’s.
+- Gebruik geen overdreven promotionele tone of voice.
+- X Kom niet fake of afgelikt over.
+- ✓ Wees authentiek.
 
-#### 2.2.2 Wees rechttoe rechtaan
-- De boodschap moet aankomen. Vraag je af: wat heeft de ontvanger nodig? Is het helder?
-- Laat tekst en beeld elkaar versterken.
-- Schrap ballast.
-- Draai niet rond de pot.
-- ❌ Maak het niet nodeloos complex.
-
-#### 2.2.3 Maak het energiek en positief
-- We willen dat mensen ’t Stad koppelen aan “goed gevoel”.
-- Toon dat het hier fijn leven, ondernemen, werken en studeren is.
-- ❌ Vermijd pessimisme en belerend vingertje.
-
-#### 2.2.4 Straal durf uit
-- We zijn een krachtig merk. Laat dat zien met creatieve, opvallende keuzes.
-- ❌ Niet twijfelen.
-
-#### 2.2.5 Kom vernieuwend en verrassend uit de hoek
-- Antwerpen ademt creativiteit en innovatie.
-- Trek dat door in je communicatie.
-- Test nieuwe formats. Experimenteer.
-- ❌ Vermijd het voorspelbare.
-
-#### 2.2.6 Creëer goesting op een toegankelijke manier
-- Vooral bij beleefthema’s.
-- Zorg dat je aanbod spontaan zin geeft.
+**Goesting gevend**
+Dit criterium is vooral van toepassing op de beleefthema’s. Zorg ervoor dat je ontvanger spontaan zin krijgt in je aanbod. Zo straal je beleving uit:
 - Toon emotie.
-- Breng beleving in beeld.
-- ❌ Nooit niche of overdreven exclusief.
+- Breng de beleving in beeld.
+- X Wees nooit niche of overdreven exclusief.
+- ✓ Creëer goesting op een toegankelijke manier.
 
-#### 2.2.7 Wees authentiek
-- Alles draait om echte mensen.
-- Zorg dat mensen zich herkennen.
-- Hou het oprecht.
-- Vermijd afgelikte stockbeelden.
-- Geen overdreven promo-tone.
-- ❌ Niet fake of glad.
+**Vernieuwend**
+Antwerpen ademt creativiteit en innovatie. Trek dit door in je communicatie. Probeer nieuwe formats, experimenteer en benader je communicatievraagstuk eens op een heel andere manier.
+- X Vermijd voorspelbare communicatie.
+- ✓ Kom vernieuwend en verrassend uit de hoek.
 
-### 2.3 Voorbeelden per driver (verzameling)
-- **Authentiek**
-  - Esran van Stadsreiniging sprak onze Instagramvolgers rechtstreeks aan over zwerfvuil op de Scheldekaaien.
-  - Wie breder zoekt, die beter vindt.
-  - Wees authentiek.
-- **Goesting gevend**
-  - Winkelzondagen
-  - Zomerbeelden
-  - Creëer goesting op een toegankelijke manier
-- **Vernieuwend**
-  - TikTok cyberaanval
-  - Podcast: “Allemaal Antwerpenaar”
-  - Kom vernieuwend en verrassend uit de hoek
-- **Durf**
-  - Hou ’t stad proper
-  - Straal durf uit
-- **Positief**
-  - Studentencampagne
-  - Merci helpende handen
-  - Maak het energiek en positief
-- **Rechttoe rechtaan**
-  - Hey ik ben ook pmd
-  - Ronde van Vlaanderen
-  - Antwerp Marathon
-  - Wees rechttoe rechtaan
-- **Verbindend**
-  - Chauffeur bij de stad, iets voor jou?
-  - Lichtjes-campagne WIA
-  - Allemaal Antwerpenaar
-  - Communiceer verbindend
+**Gedurfd**
+De stad wil een krachtig merk zijn, een merk dat er staat en zelfvertrouwen uitstraalt. Laat stedelijke communicatie opvallen met een gezonde portie creativiteit en durf.
+- X Wees niet onzeker.
+- ✓ Straal durf uit.
 
-### 2.4 Doelgroepen (types)
-- Medewerkers  
-- Talent  
-- Belever  
-- Local  
-- Corporate  
+**Positief**
+We willen dat onze doelgroepen de stad associëren met iets positiefs en het gevoel hebben dat de stad er voor hen is. Toon dus in je communicatie dat het in de stad fijn leven, vertoeven, ondernemen, werken en studeren is.
+- X Vermijd pessimistische en belerende boodschappen.
+- ✓ Maak het energiek en positief.
 
-**Uitleg (samengevat)**
-- Doelgroepen staan centraal: we communiceren naar vijf types op basis van hun relatie met de stad.
-- Medewerkers: (potentiële) werkgever.
-- Talent: aanbod voor kinderen/jongeren, (potentiële) studenten en/of werkkrachten.
-- Belever: (potentiële) gebruiker van beleef- en vrijetijdsaanbod.
-- Local: mensen die duurzaam aanwezig zijn: wonen/werken/studeren/ondernemen.
-- Corporate: zakelijke insteek: investeerders, organisatoren, ondernemers, partners.
+**Rechttoe rechtaan**
+Onze prioriteit is de boodschap goed tot bij de ontvanger krijgen. Vraag jezelf dus steeds af: welke info heeft de ontvanger nodig en is de communicatie duidelijk? Zo maak je het voor de ontvanger gemakkelijker:
+- Laat tekst en beeld elkaar ondersteunen.
+- Schrap overbodige elementen.
+- Draai niet rond de pot.
+- X Maak je boodschap niet onnodig ingewikkeld.
+- ✓ Wees rechttoe rechtaan.
+
+**Samenvattende toets**
+Ga altijd voor een onderscheidend aanbod dat:
+- bijdraagt aan vooruitgang, vernieuwing en verbetering van de stad;
+- de sociale cohesie in de stad bevordert.
+
+Zorg ervoor dat je communicatie altijd verbindend is en zoveel mogelijk aanleunt bij de merkcriteria. Vermijd communicatie die in strijd is met een van de kernbegrippen.
 
 ---
 
-## 3. Brand assets
+### 1.0.4 Doelgroepen (wie spreken we aan)
+**Basisprincipe**  
+Onze doelgroepen staan centraal. Als stad communiceren we naar vijf types doelgroepen op basis van de relatie die ze op dat moment met de stad hebben.
 
-### 3.1 Overkoepelende identiteit
-**Comment**  
-Antwerpen hanteert één overkoepelende visuele identiteit. Alle diensten en doelgroepen gebruiken dezelfde huisstijl: herkenbaar, consequent, bewaakt.
-
-**Guidelines**  
-De visuele identiteit bouwt op de iconische stralende A en vaste ontwerpprincipes. Positieve, trotse beeldtaal en consistente toepassing van logo, kleuren, typografie en stijlelementen in alle kanalen.
-
----
-
-## 4. Verbal assets
-
-### 4.1 Richtlijnen
-**Comment**  
-Onze verbale assets laten Antwerpen klinken zoals Antwerpen is: duidelijk, warm, met schwung.
-
-**Guidelines**  
-Gebruik vaste formuleringen en ritmes die onze persoonlijkheid dragen. Herkenbaar over alle kanalen.
-
-### 4.2 Campagnes (overzicht)
-#### 4.2.1 Allemaal Antwerpenaar (maart 2023 – maart 2024)
-- **Doelstelling**: Antwerpenaren aanmoedigen om altijd te reageren bij discriminatie, racisme of (seksuele) intimidatie. Zodat iedereen 100% zichzelf kan zijn in onze stad. Met concrete tips verlagen we de drempel om voor elkaar op te komen.
-- **Doelgroep**: Alle inwoners van Antwerpen; in 2024 extra focus op scholen en bedrijven.
-- **Kanalen**: Affiches, (raam)stickers, photobooth en fotomuur op de Groenplaats, interactieve installatie met digitale stophandjes in de Stadsfeestzaal, online quiz en e-learning, gratis workshops, campagnewebsite, nieuwsbrieven, sociale media, pers- en nieuwsberichten.
-- **Tone of voice voorbeelden**
-  - Reageer. Altijd.
-  - Kijk niet weg. Reageer. Altijd.
-  - Met een kleine reactie maak je een groot verschil.
-  - Antwerpen bouwt aan een stad waar iedereen zichzelf kan zijn. Discriminatie, racisme en intimidatie horen hier niet thuis.
-
-#### 4.2.2 Sporting A beweegcampagne (jan 2023 – 2025)
-- **Doelstelling**: Antwerpenaren in beweging zetten: tonen hoe simpel en leuk bewegen is en iedereen een kickstart geven voor een jaar vol goesting en beleving.
-- **Doelgroep**: Alle Antwerpenaren, extra aandacht voor wie weinig beweegt; in 2024 specifiek studenten tijdens examenperiode.
-- **Kanalen**: Affiches, canvasdoeken en vlaggen, stickers op trams/bussen, social video en bioscoopvoorfilm, reuzebokszakken op studieplekken, bierviltjes, parkbordjes, ambassadeurs, landingspagina met test en tips.
-- **Tone of voice voorbeelden**
-  - Wat jou ook beweegt, wij supporteren mee.
-  - Bewegen is eenvoudiger dan je denkt.
-  - Strek die benen. Zet die (lach)spieren aan het werk!
-  - Bewegen staat je goed.
-  - Het leukste aan samen sporten? De babbels achteraf.
-  - Doe het voor het uitzicht, de vriendschap, de fun.
-  - Er zit meer beweging in je dag (en in ’t Stad) dan je denkt.
-
-#### 4.2.3 Slim naar Antwerpen – Combineer en navigeer (2023)
-- **Doelstelling**: Mensen slimmer laten reizen: combineer vervoersmiddelen en gebruik de app als gids, zeker in drukke periodes.
-- **Doelgroep**: Pendelaars en automobilisten in en rond Antwerpen; bezoekers/shoppers tijdens eindejaar; inwoners die zich in de stad verplaatsen.
-- **Kanalen**: Radio, digitale radio, online video en social, print, always-on content, app-store beschrijvingen, stedelijke website.
-- **Tone of voice voorbeelden**
-  - Combineer en navigeer vlot naar je bestemming in Antwerpen.
-  - Download de Slim naar Antwerpen-app.
-  - Op weg naar je werk? Kom slim naar Antwerpen. Met onze app combineer en navigeer je moeiteloos.
-
-#### 4.2.4 Zonder zorgen op vakantie? Vraag nu al je reispas aan. (april 2023)
-- **Doelstelling**: Tijdig reispas aanvragen: geen stress, geen dure spoedprocedures.
-- **Doelgroep**: Antwerpenaren met reisplannen buiten Europa of waar reispas nodig is; reisprofessionals.
-- **Kanalen**: Digitale toolkit voor reisbureaus, stedelijke webpagina met praktische info, nieuws/pers, social posts.
-- **Tone of voice voorbeelden**
-  - Zonder zorgen op vakantie? Vraag nu je reispas aan.
-
-#### 4.2.5 Cocaïne? #AntwerpenTegenDrugs (vanaf 26 juni 2024)
-- **Doelstelling**: Signaal: cocaïne verwoest levens en ondermijnt samenleving; confronteren recreatieve gebruikers; weg naar hulp.
-- **Doelgroep**: Recreatieve gebruikers (jongvolwassenen uitgaansleven); brede stadsbevolking; mensen met zorgen rond gebruik/verslaving.
-- **Kanalen**: Online ads, affiches nachtleven, (campagne)website, social (#AntwerpenTegenDrugs), pers.
-- **Tone of voice voorbeelden**
-  - Cocaïne verwoest. Jouw leven. Onze samenleving.
-  - Gebruik schaadt meer dan jezelf.
-  - Hulp nodig of bezorgd? Ontdek opties op antwerpentegendrugs.be of contacteer De Druglijn (bel/chat/mail).
-
-#### 4.2.6 Campagne seksuele straatintimidatie (november 2025)
-- **Doelstelling**: Seksuele intimidatie hoort niet thuis; aanmoedigen om te melden; veilige publieke ruimte.
-- **Doelgroep**: Alle Antwerpenaren: slachtoffers, omstaanders, (potentiële) daders.
-- **Kanalen**: Affiches, website, social, partners (omstaandertraining/hotspot-aanpak), pers.
-- **Tone of voice voorbeelden**
-  - Seksuele intimidatie? Niet in onze stad.
-  - Elke melding telt.
-  - We zijn allemaal Antwerpenaar: 100% jezelf, vrij en veilig.
-  - Samen maken we Antwerpen veiliger.
-
-#### 4.2.7 Zwerfvuil en sluikstort – Te lui, te zat of te dom? (6–20 mei 2024)
-- **Doelstelling**: Vervuilers confronteren; schaamte creëren rond afval achterlaten; aanzetten tot vuilbak.
-- **Doelgroep**: Park/plein bezoekers, feestvierders, iedereen die afval achterlaat.
-- **Kanalen**: Affiches (3 beelden), installaties (reuzegrote peuk/wegwerpbeker), zichtbaarheid pleinen, website, social, pers.
-- **Tone of voice voorbeelden**
-  - Te lui, te zat of te dom om je afval in de vuilbak te gooien? Geen excuus.
-  - Er is nooit een goede reden om afval te droppen.
-  - Laat die vetzakkenmentaliteit thuis en hou ’t Stad proper.
-
-#### 4.2.8 Inclusief ondernemen – Wie breder zoekt, die beter vindt. (najaar 2022 – 2023)
-- **Doelstelling**: Werkgevers stimuleren inclusiever te rekruteren; atypische profielen kansen geven.
-- **Doelgroep**: Antwerpse ondernemers en HR, zeker in sectoren met knelpuntvacatures.
-- **Kanalen**: Platform Talentvinders, video’s, artikels, nieuwsbrieven, netwerkevents, workshops, vakpers.
-- **Tone of voice voorbeelden**
-  - Wie breder zoekt, die beter vindt.
-  - Durf je blik te verruimen?
-  - Ondernemers met open blik zijn Talentvinders.
-  - Groei met mensen die willen groeien.
-  - Kijk breed en geef ook kansarm talent een kans.
-
-#### 4.2.9 Employer branding Stad Antwerpen (doorlopend)
-- **Doelstelling**: Antwerpen profileren als werkgever met impact en gevarieerd jobaanbod.
-- **Doelgroep**: Potentiële sollicitanten (extra focus knelpuntprofielen) + huidige medewerkers.
-- **Kanalen**: job.antwerpen.be, social, jobbeurzen, citymarketing, interne communicatie, pers.
-- **Tone of voice voorbeelden**
-  - Jouw job? Antwerpen nóg straffer maken.
-  - Verrassend veel variatie. Vind jouw uitdaging op www.antwerpen.be/vacatures
-  - Elke job heeft impact. Jouw talent maakt ’t Stad sterker. We willen jou erbij!
-  - Samen maken we Antwerpen.
+**De vijf doelgroepen (definities)**
+- **Medewerkers** — Wie we aanspreken omdat de stad zijn/haar (potentiële) werkgever is.
+- **Talent** — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
+- **Belever** — Wie we willen aanspreken omdat we hen zien als (potentiële) gebruiker van het interne en/of externe beleef- en vrijetijdsaanbod dat Antwerpen te bieden heeft. Deze doelgroep willen we ‘goesting doen krijgen in’ het aanbod. Voor een aantal instellingen wordt hier gekozen voor heel gerichte (internationale) subdoelgroepen.
+- **Local** — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
+- **Corporate** — Wie we willen aanspreken vanuit een zakelijke insteek over het aanbod dat we aan (potentiële) investeerders, organisatoren, ondernemers en/of andere zakelijke partners te bieden hebben.
 
 ---
 
-## 5. Visual assets
+### 1.0.5 Sleutelthema’s (inhoudelijke accenten per doelgroep)
+**Doel**  
+De merkstrategie maakt het mogelijk om accenten te leggen in communicatie naar doelgroepen. Dit vormt de leidraad in de planning en biedt opportuniteiten om dezelfde verhaallijn te volgen naar die doelgroepen.
 
-### 5.1 Richtlijnen
+#### 1.0.5.1 Sleutelthema’s — Belevers
+
+**Cultuur**  
+Antwerpen is een culturele metropool en een vrijplaats voor eigenzinnige creativiteit.
+
+- **Door**
+  - haar internationaal gerenommeerd cultureel erfgoed (bv. Vlaamse meesters, …)
+  - vooruitstrevende kunst- en cultuurinstellingen (bv. musea, podia, …)
+  - de aanwezigheid van eigenzinnige creatievelingen en Antwerpse meesters door de eeuwen heen
+  - het stimuleren van creativiteit bij jongeren en kinderen en het ondersteunen van instellingen die jong talent een platform bieden (bv. Gen Z Fameus, Urban Art Festival, …)
+- **Voor**
+  - belevers uit Antwerpen en randgemeenten (met extra focus op kinderen en jongeren, zowel mbt kennis van cultureel erfgoed als het stimuleren van creativiteit)
+  - belevers uit Vlaanderen, Nederland (Noord-Brabant, Zeeland en Limburg) en de treinas (Den Haag, Rotterdam, Amsterdam) voor bovenlokaal cultuuraanbod
+  - via complementaire marktpositionering binnen het culturele veld proberen we een maximale diversiteit aan subdoelgroepen te benaderen
+  - doelgroep kan op campagneniveau aangevuld worden met gerichte (internationale) markten voor bepaalde cultuurinstellingen
+
+**Feest**  
+Een mix aan vooruitstrevende en verbindende evenementen, feesten en attracties geeft Antwerpen volop zuurstof.
+
+- **Door**
+  - bestaand en divers (sport)event- en feestaanbod gekoppeld aan sterke, vertrouwde merken
+  - extra aanbod dat inspeelt op vernieuwing, al dan niet gericht op een bepaald publiek, met extra focus op het avond- en nachtleven (film, theater, sport, muziek, clubs, …)
+  - aandacht voor een goede spreiding, inclusieve beleving (voldoende gratis) en duurzaamheid
+  - voldoende fysieke ruimte en aanbod voor jongeren om binnen het kader van het nachtleven creativiteit, zelfontplooiing en sociaal leven te stimuleren
+- **Voor**
+  - belevers uit Antwerpen en randgemeenten
+  - belevers uit Vlaanderen, Nederland (Noord-Brabant, Zeeland en Limburg) en treinas (Den Haag, Rotterdam, Amsterdam) voor bovenlokale evenementen
+  - doelgroep kan aangevuld worden met gerichte (internationale) markten voor bepaalde evenementen
+  - doelgroep kan voor bepaalde evenementen aangevuld worden met gerichte (internationale) markten en/of subdoelgroepen (bv. sporters, young urban travellers, premium)
+  - fans van stedelijkheid, met bijzondere aandacht voor jongeren en studenten als actieve en betrokken deelnemers in het Antwerpse uitgaansleven
+
+**Culinair**  
+Ons streekproduct: smaakmeesterschap. De culinaire inspiratie halen Antwerpse chefs uit alle windstreken en culturen. Die internationale allure proef je in elke hap. En zo wordt het Antwerps gastronomisch DNA ook ver buiten de stadsgrenzen geroemd.
+
+- **Door**
+  - een kwalitatief aanbod van restaurants: van sterrenzaken en innovatieve foodconcepten tot smakelijke volkskeukens
+  - gedreven smaakmeesters die inspiratie uit alle windrichtingen van generatie op generatie doorgeven om mensen samen te brengen
+- **Voor**
+  - premium segmenten en passiemarkten
+  - focus op de volgende geografische regio’s:
+    - Antwerpen en randgemeenten
+    - Vlaanderen, Nederland (Noord-Brabant, Zeeland en Limburg), treinas (Den Haag, Rotterdam, Amsterdam)
+    - Brussel & Wallonië, Noordrijn-Westfalen, Hauts-de-France en Zuid-Engeland
+
+**Mode & shopping**  
+Modebewust Antwerpen. Antwerpen is dé shoppingstad bij uitstek én een modestad van wereldformaat.
+
+- **Door**
+  - een breed aanbod om mode te kunnen beleven
+  - unieke shopervaringen en innovatieve testconcepten
+  - een mix van high street & high end fashion, geclusterd in verschillende wijken
+  - vooruitstrevende ontwerptalenten die, met een unieke en maatschappelijke verantwoorde blik, baanbrekende mode creëren
+- **Voor**
+  - fun-shoppers, premium segment en passiemarkten
+  - belevers uit Antwerpen en randgemeenten
+  - belevers uit Vlaanderen, Nederland (Noord-Brabant, Zeeland en Limburg) en treinas (Den Haag, Rotterdam, Amsterdam)
+
+#### 1.0.5.2 Sleutelthema’s — Locals
+
+**Veiligheid**  
+Antwerpen is een leefbare en veilige stad. Elke Antwerpenaar moet zich veilig kunnen voelen in elke wijk van de stad en op elk moment van de dag of nacht. Daar zorgen dagelijks honderden medewerkers voor, in gedeelde verantwoordelijkheid met de Antwerpenaars zelf.
+
+- **Door**
+  - gerichte (communicatie)acties en boodschappen op bepaalde locaties
+  - communicatie naar het netwerk van partners die mee zorgen voor een veilige omgeving voor een bepaalde doelgroep (vb. partners in het nachtleven)
+  - brede sensibiliserende campagnes gericht op een breed publiek (vb. campagne verkeersveiligheid)
+- **Voor**
+  - locals: zij die in de stad vertoeven, doordat ze er wonen, werken, studeren, ondernemen of om een andere reden duurzaam verblijven
+
+**Proper & minder afval**  
+Vele handen leveren dagelijks heel wat inspanningen om stad Antwerpen proper te houden. Naast de honderden medewerkers die dagelijks op pad gaan om sluikstort en zwerfvuil aan te pakken, gaan er intussen ook al duizenden vrijwilligers de straat op om op te ruimen. De stad blijft communicatie inzetten om in de mate van het mogelijke een blijvende gedragsverandering te realiseren.
+
+- **Door**
+  - in te zetten op de nodige flankerende beleidsmaatregelen
+  - zowel campagnes met grote visibiliteit, als meer fijnmazige initiatieven waarin zowel informerende, sensibiliserende als repressieve boodschappen aan bod komen, die elkaar kunnen aanvullen en/of afwisselen om op termijn tot een always-on communicatie te komen binnen hetzelfde herkenbare creatieve concept
+- **Voor**
+  - locals: zij die in de stad vertoeven, doordat ze er wonen, werken, studeren, ondernemen of om een andere reden duurzaam verblijven
+
+**Gelijke kansen**  
+Allemaal Antwerpenaar. Antwerpen is een diverse stad waar elke inwoner zich 100% Antwerpenaar kan voelen en helemaal zichzelf kan zijn en waar we gezamenlijk opkomen tegen discriminatie, intimidatie en racisme.
+
+- **Door**
+  - in te zetten op acties die de strijd aanbinden met racisme en discriminatie zodat elke inwoner zich 100% Antwerpenaar kan voelen en helemaal zichzelf kan zijn. Want we delen niet alleen een stad, maar ook een toekomst.
+  - uitrol integraal toegankelijkheidsplan voor personen met een beperking
+  - jaarlijks een brede campagne te doen rond dit thema onder de noemer Allemaal Antwerpenaar
+- **Voor**
+  - alle locals: jong, oud, man, vrouw, non-binair, hetero, queer, geboren in België of ergens anders. Waar je ook in gelooft, of Nederlands nu je moedertaal is of niet, met of zonder beperking of gewoonweg niet in een hokje te plaatsen: Antwerpen is er voor iedereen.
+
+**Klimaat**  
+Antwerpen voor klimaat. Antwerpen maakt zich klaar voor de toekomst. Er zijn nù inspanningen nodig om tegen 2050 een klimaatneutrale en –robuuste stad te zijn. Met de stad willen we een voortrekkersrol opnemen en Antwerpenaars ondersteunen om hun woning energiezuinig te maken (naar A-label), en om de stad klaar te maken voor periodes van wateroverlast, hitte en droogte.
+
+- **Door**
+  - doelgroepen te ondersteunen in deze transformatie met advies, begeleiding, premies en subsidies. Die zetten in op een versnelde energietransitie en een voorbereiding op de gevolgen van klimaatverandering in de stad (hitte, droogte, watertekort en wateroverlast).
+  - te inspireren met goede voorbeelden om klimaatvriendelijke keuzes te maken.
+  - tijdelijke acties en evenementen te organiseren om bewustzijn rond klimaatthema’s te vergroten.
+- **Voor**
+  - alle locals, zowel gebouweigenaars als huurders
+  - bedrijven en collectieven (vme’s, scholen, verenigingen)
+  - intermediairen en professionals
+
+**Gezonde geest in gezond lichaam**  
+De stad wil dat haar inwoners zich goed omringd en gelukkig voelen. Verschillende aspecten dragen bij tot mentaal welbevinden, zoals fysieke gezondheid, een actieve vrijetijdsinvulling, sociale contacten, een goede woonomgeving… Om het mentale welbevinden van mensen te versterken, sensibiliseert en activeert de stad haar inwoners vanuit verschillende beleidsdomeinen.
+
+- **Door**
+  - stadsbrede stimulerende beweegcampagnes te voeren naar alle inwoners vanuit Sporting A
+  - lokaal en bovenlokaal in te zetten op (culturele) ontmoeting
+  - inzet op gerichte initiatieven en communicatie voor bepaalde doelgroepen, zoals bijvoorbeeld bij jongeren kwetsbaarheid bespreekbaar maken en de weg wijzen naar hulp
+- **Voor**
+  - locals in het algemeen
+  - doelgroepen die kwetsbaarder zijn op het vlak van mentaal welbevinden
+
+#### 1.0.5.3 Sleutelthema’s — Stadbreed (dienstverlening, vernieuwing, mobiliteit)
+
+**(Digitale) innovatie van stedelijke dienstverlening**  
+Antwerpen is een voorloper in (digitale) dienstverlening en gaat voor dienstverlening op maat, zonder iemand achter te laten.
+
+- **Door**
+  - digitale toepassingen die zodanig tegemoet komen aan de behoeftes van onze stadsgebruikers in hun interactie met de stad zodat het gebruik ervan als naadloos beschouwd wordt (bv. mijn antwerpen app, antwerpen.be, sociaal dossier platform, …)
+  - eenvoudige, intuïtieve toepassingen met extra aandacht voor de digitaal minder vaardige stadsgebruikers. Waar nodig de juiste begeleiding te voorzien om mensen op weg te helpen en zo te werken aan een digitaal inclusieve stad. Digital first betekent niet dat telefonisch en fysiek contact niet meer mogelijk zijn voor zij die digitaal minder mee zijn. Maar wie vandaag niet mee is, kan dat morgen wel zijn.
+  - dienstverlening maximaal op maat van en gepersonaliseerd aan alle Antwerpenaars (en andere gebruikers) los van het kanaal of de plaats waar de gebruiker zijn dienstverlening wil ontvangen
+- **Voor**
+  - alle afnemers van producten of diensten van de stad
+
+**Stadsvernieuwing**  
+Antwerpen staat voor een ongeziene transformatie en bouwt samen met bewoners, ondernemers en vele andere partners aan de stad van morgen.
+
+- **Door**
+  - De Grote Verbinding, die de Oosterweelverbinding, de Ringparken en de Scheldebrug samenbrengt in één geheel, wordt de komende jaren verder uitgetekend en gebouwd. We verbinden bestaande en nieuwe wijken aan beide kanten van de Ring met meer groen, minder lawaai en schonere lucht.
+  - een geïntegreerde aanpak voor alle stadsvernieuwingsprojecten die bestaat uit vijf punten: aangename wijken, mobiliteit en infrastructuur, duurzame stad, onroerend erfgoed en stedelijk ontwerp
+  - een partnerschap tussen stad Antwerpen, VDAB, Constructiv, Talentenwerf en Lantis om in te zetten op Jobs in de Grote Verbinding.
+- **Voor**
+  - iedereen die leeft, werkt, studeert of onderneemt in de stad en de regio Antwerpen
+  - iedereen die breder baat heeft bij een bepaald stadsvernieuwingsproject
+
+**Mobiliteit**  
+Slim naar Antwerpen biedt bereikbaarheidsinformatie en slimme alternatieven aan iedereen die zich naar en in de stad wil verplaatsen.
+
+- **Door**
+  - een slimme multimodale routeplanner en navigatie-app met de laatste info rond wegenwerken en omleidingen
+  - inspiratie en activatie naar meer duurzame mobiliteitsoplossingen
+  - mobiliteitsadvies op maat aan werkgevers met het oog op slimmer verplaatsingsgedrag van hun werknemers
+- **Voor**
+  - iedereen die woont, werkt, studeert of onderneemt in de vervoerregio Antwerpen
+  - iedereen die zich naar of in Antwerpen moet verplaatsen
+  - werkgevers
+  - mobiliteitspartners
+
+#### 1.0.5.4 Sleutelthema’s — Medewerkers
+
+**Digitaal samenwerken**  
+We zorgen voor een upgrade van je werkplek via nieuwe tools en up-to-date processen. Deze werkplek wordt flexibel, hybride, maximaal efficiënt en maximaal cyberveilig. Zo maken we onze organisatie klaar voor de toekomst. We hebben daarbij oog voor de verschillende medewerkersprofielen en hun digitale geletterdheid.
+
+- **Door**
+  - heldere communicatie over een stapsgewijze implementatie van office 365
+  - opleidingspakketten ‘digitale werkplek’ die rekening houden met onze diversiteit aan medewerkersprofielen
+  - inclusietraject voor operationele medewerkers op D- en E-niveau
+  - een doorlopend bewustwordingstraject rond cybersecurity (Hoxhunt)
+  - vernieuwing medewerkersportaal met focus op gebruiksvriendelijkheid
+  - datagedreven werken binnen de digitale transformatie
+- **Voor**
+  - alle stadsmedewerkers
+
+**Veilig op en naar het werk**  
+Zorg voor jezelf en voor anderen op de werkvloer. Samen maken we van veiligheid op en naar het werk een prioriteit. Veiligheid in de breedste zin van het woord, gaande van veiligheid op de werkvloer tot mentale en psychologische veiligheid. En met de finale doelstelling dat medewerkers hun werk in de beste omstandigheden kunnen uitvoeren. Daartoe willen we op diverse vlakken ondersteunende initiatieven nemen of bestaande initiatieven extra in de schijnwerpers zetten. We grijpen hierbij maximaal terug naar ons DNA als werkgever, nl. de A-waarden van de stad.
+
+- **Door**
+  - bestaande acties extra in de schijnwerpers plaatsen  
+    (red je rug, red een leven, evacuatie-oefeningen, meld A, opleidingen, initiatieven op vlak van fysiek en mentaal welzijn, …)
+  - nieuwe acties te ontwikkelen en hen maximaal gespreid doorheen het jaar te communiceren  
+    (fiets met een helm, val op in het donker met een fluovest, richtlijnen over hoe omgaan met polarisatie en online haat, nieuwe opleidingspakketten, …)
+- **Voor**
+  - alle stadsmedewerkers
+
+**Employer branding**  
+Jouw job? Antwerpen nóg straffer maken.  
+Verrassend veel variatie bij de stad. Vind jouw uitdaging op www.antwerpen.be/vacatures
+
+- **Door**
+  - werken voor de stad is uniek omdat de hele stad je werkvloer is. Dat maakt van de stad Antwerpen een unieke werkgever met een zeer grote maatschappelijke ambitie: je bouwt mee aan de toekomst van de grootste stad van Vlaanderen.
+  - Antwerpen is niet zomaar een stad. In Antwerpen ervaar je hoe mensen steeds opnieuw op zoek gaan naar nieuwe gedachten, uitvindingen, tendensen & producten. Daarom zijn onze medewerkers ook net die mensen die open staan voor verrassing en vernieuwing.
+  - in ruil voor je inzet, krijg je kansen om te groeien. De stad is immers zelf een mini- arbeidsmarkt met een grote variatie aan jobs.
+- **Voor**
+  - potentiële sollicitanten (extra focus op knelpuntberoepen)
+  - huidige stadspersoneel
+
+#### 1.0.5.5 Sleutelthema’s — Talent
+
+**Studentenstad**  
+Antwerpen is dé plek om te studeren. Beleef een studententijd om nooit te vergeten dankzij de unieke troeven die Antwerpen te bieden heeft.
+
+- **Door**
+  - een uniek aanbod aan opleidingen, enorm veel cultuur, fantastische stage- en jobmogelijkheden, een creatieve en innovatieve drive, een diverse bevolking en de goede zorgen van STAN. In Antwerpen krijg je alle ingrediënten voor een studententijd om nooit te vergeten
+  - de studenten zelf: zij zijn ook een onmisbaar ingrediënt in deze mix. Want studeren is meer dan alleen studeren. Studeren is experimenteren, je talenten ontdekken en proeven van het leven in een bruisende stad waar je alles en iedereen kan tegenkomen, inclusief jezelf.
+  - Antwerpen is dé stad waar studenten alle kansen krijgen
+- **Voor**
+  - instromers in het hoger onderwijs = 17-18 jarigen, laatstejaars middelbaar
+  - studenten hoger onderwijs: nestklevers, planners en avonturiers
+  - geografisch:
+    - primair: Antwerpen + brede rand, Kempen, Waasland
+    - secundair: Vlaanderen & internationaal (Europa), via stakeholders
+
+**Samen voor jong talent**  
+We investeren in de talenten van Antwerpse jongeren en kinderen om hen een zo succesvol mogelijke toekomst te garanderen, want hun toekomst bepaalt ook de toekomst van onze stad. Daarom verdienen alle jongeren gelijke kansen om hun talenten ten volle te ontplooien.
+
+- **Door**
+  - iedereen die als professional werkt met kinderen en jongeren te waarderen voor hun inzet.
+  - deze professionals de mogelijkheid en ondersteuning te bieden om zijn/haar rol ten volle op te nemen.
+  - een gezamenlijke doelgerichtheid te installeren bij alle betrokken partners, we creëren een community van ‘grootbrengers’. Deze bestaat uit een permanente community van professionals, aangevuld met tijdelijke communities van familie, ouders en andere niet-professionele betrokkenen.
+  - via het beleidsprogramma A’REA UP maximaal gekwalificeerde uitstroom uit het secundair onderwijs na te streven, en in de communicatie daaromtrent de basisprincipes van A’REA UP toe te passen, onder meer het kind / de jongere centraal te stellen, uitdagingen en kansen van de grootstedelijke Antwerpse context te integreren in alles wat we doen.
+- **Voor**
+  - alle Antwerpse kinderen en jongeren van 0 tot 26 jaar
+  - professionals uit het onderwijsveld, jeugdwerk, kinderopvang en alle relevante partners uit andere sectoren (vb. sport)
+  - ouders, familie… van kinderen en jongeren in Antwerpen
+
+**Knelpunten op de arbeidsmarkt**  
+Een stroom aan kansen. De stad Antwerpen bouwt bruggen tussen talent en het werkveld en creëert zo inclusieve kansen voor elk talent.
+
+- **Door**
+  - hands-on projecten en opleidingen
+  - werkzoekenden meer kansen te bieden
+  - in te zetten op de invulling van knelpuntberoepen
+- **Voor**
+  - Antwerpse werkgevers
+  - werkzoekenden
+  - tewerkstellingspartners
+
+##### 1.0.5.6 Sleutelthema’s — Corporate
+**(nog aan te vullen)**  
+Content voor Corporate-sleutelthema’s wordt toegevoegd zodra die beschikbaar is in het bronmateriaal.
+
+---
+
+### 1.1 Moedermerk
 **Comment**  
-We houden onze visuele identiteit één en sterk. Zo herkent iedereen ’t Stad van ver.
+Antwerpen is het moedermerk. Deze richtlijnen geven een overzicht van hoe de visuele identiteit van Antwerpen werkt.
 
-**Guidelines**  
-Het iconische A-logo staat centraal. Beeldtaal is trots en positief. Toepassing van logo, kleuren, typografie en stijlelementen is consequent, overal.
+**Guidelines**
+- Antwerpen staat voor het moedermerk dat alle stadscommunicatie draagt.
+- De identiteit bestaat uit 3 elementen:
+  - de stralende A
+  - de baseline
+  - het lettertype
 
-### 5.2 Logo’s
-- **Comment**: De stralende A: witte ‘A’ op warmrood vlak met oranje stralen. Symbool voor fiere kracht en positieve energie. Solo of mét ‘Stad Antwerpen’.
-- **Guidelines**:
-  - Volg de regels.
-  - Bij voorkeur op wit.
-  - Bewaar de beschermzone.
-  - Extern (bv. sponsor): A-logo prominent en vooraan.
-  - Niet vervormen of wijzigen.
-  - Varianten (zoals mono) enkel volgens de officiële richtlijnen.
+**Voorbeelden**
+- Voorbeelden moedermerk subcategorie 1.2 (naamsvierkant): toepassingen zoals “EcoHuis Antwerpen” en “Mobiliteit en parkeren” met naamsvierkant.
+- Voorbeelden moedermerk subcategorie 1.3 (éénkleurig): toepassingen zoals districtscampagnes (bv. “Berendrecht Zandvliet Lillo”) en “Hoboken Wintert”.
 
-### 5.3 Kleuren
-- **Comment**: Primair: rood en wit – historische stadskleuren. Warm rood (Pantone 485 C) domineert, wit ondersteunt. Oranje in de stralen voor dynamiek. Rood en wit blijven de kern.
-- **Guidelines**: Palet heeft twee themakleuren (rood en blauw) met tinten, aangevuld met functionele kleuren. Warm rood is hoofdkleur (logo en accenten), wit is basis. Zwarttinten (cod gray) voor tekst en neutrale vlakken. Digitale kleuren voor meldingen/status (success/warning/danger).
+**Specs**
+- Subcategorie 1.3: Antwerpen is een optelsom van 9 districten, 14 postzones, 62 wijken. Sommige entiteiten met een sterk lokale verankering hebben daardoor nood aan een extra onderscheid in vormgeving die hun communicatie herkenbaar maakt voor de ontvanger.
+- Deze entiteiten maken gebruik van een éénkleurige variant van het A-logo, onder de volgende twee voorwaarden:
+  - Dezelfde éénkleurige variant of een samenstelling op basis van maximum 2 kleuren wordt maximaal gebruikt. De éénkleurige variant wordt samengesteld op basis van max. 2 kleuren uit het kleurenpalet.
+  - Voor signalisatie wordt wel het officiële A-logo gebruikt.
 
-**Kleuren (selectie)**
-- Warm rood — **HEX #DA291C**, CMYK 0/81/87/15
-- Wit — **HEX #FFFFFF**
-- Donker grijs (Cod Gray) — **HEX #141414**
-- Blauw (Endeavour) — **HEX #0064B4**
+**Assets/Downloads**
+- Verwijzingen naar detailrichtlijnen:
+  - naamsvierkant: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/logo-s/1-2-a-logo-met-naamsvierkant`
+  - éénkleurig: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/logo-s/1-3-eenkleurig-a-logo-met-naamsvierkant`
+  - kleurenpalet: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/grafische-vormgeving/kleuren`
+  - signalisatie: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/overige/signalisatie`
 
-### 5.4 Vorm (form)
-- **Comment**: Eenvoudige, krachtige vormen. Rechte lijnen, strakke vlakken, de karakteristieke A in lay-out. Geometrische vlakken structureren content.
-- **Guidelines**:
-  - Strak en hoekig design: **geen afgeronde hoeken** (border-radius 0).
-  - Grafische vlakken en uitvergrote letters mogen, binnen de huisstijl.
-  - Alles proportioneel schalen; het A-vlak blijft vierka
+---
+
+### 1.2 Submerk
+**Comment**  
+Een submerk is een merk binnen het moedermerk Antwerpen.
+
+**Guidelines**
+- Een submerk gebruikt altijd de stralende A in zijn communicatie. Op die manier blijft er een sterke herkenbaarheid en een band met stad Antwerpen.
+- Voor elk submerk wordt onder begeleiding van een ontwerper een stijlgids uitgewerkt met specifieke richtlijnen. Deze stijlgids beantwoordt steeds aan de volgende voorwaarden:
+  1. Het submerklogo is primair. Dat wil zeggen dat het prominent in beeld komt op elke communicatie-uiting.
+  2. Het submerklogo wordt vrij vormgegeven, met wel rekening houdend met de typische stijlkenmerken (lettertype, kleur). Het submerklogo heeft veel ruimte nodig om zijn kracht te behouden en wordt daarom niet te klein geplaatst.
+  3. Het officiële A-logo is secundair. Het zorgt voor de herkenbaarheid van stad Antwerpen.
+  4. Partners en sponsors worden op een duidelijke manier geïntegreerd. Het submerklogo blijft op de eerste plaats staan.
+  5. De vaste huisstijlprincipes blijven gelden: de submerkstijl is altijd herkenbaar als ‘Antwerpen’.
+
+**Subcategorie 2.1**
+- Sommige entiteiten binnen stad Antwerpen bevinden zich in een competitief veld (met andere overheden of bedrijven). Zij hebben daardoor nood aan een uniekere (inter)nationale uitstraling.
+- De volgende entiteiten vallen onder subcategorie 2.1:
+  - Antwerpen Brandweer
+  - AG Vespa
+  - Havenbedrijf Antwerpen-Brugge
+  - Oosterweel
+
+**Subcategorie 2.2 (themaperiodes)**
+- Subcategorie 2.2 gaat over themaperiodes die onder de communicatie van stad Antwerpen vallen.
+- Deze themaperiodes worden onderverdeeld in verschillende subcategorieën:
+  - Campagne (subcategorie 2.2.1)
+  - Metropool (subcategorie 2.2.2)
+  - Eigen product (subcategorie 2.2.3)
+- Voor elke subcategorie geldt:
+  - Het themalogo is primair.
+  - Het themalogo krijgt voldoende ruimte.
+  - De stijl van het themalogo kan variëren, afhankelijk van de subcategorie.
+  - Het officiële A-logo blijft zichtbaar op elke communicatie-uiting.
+
+**Partners en sponsors (binnen themaperiodes)**
+- De partnerlogo’s blijven steeds ondergeschikt aan het themalogo.
+- De partnerlogo’s worden altijd op een vaste plaats gebundeld.
+
+**Voorbeelden**
+- Themaperiodes: “Antwerpen leest”, “Winter in Antwerpen” (visuele voorbeelden in de bron-PDF).
+
+---
+
+### 1.3 Stad als partner
+**Comment**  
+Stad als partner is een toepassing die zichtbaar maakt dat stad Antwerpen een project of initiatief ondersteunt, terwijl het merk van de organiserende partner primair blijft.
+
+**Guidelines**
+- Je gebruikt stad als partner wanneer:
+  - stad Antwerpen een project of initiatief financieel en/of inhoudelijk ondersteunt,
+  - stad Antwerpen het project of initiatief niet zelf organiseert,
+  - het project of initiatief een externe organisator heeft.
+- Stad als partner is niet nodig wanneer:
+  - stad Antwerpen de organisator is (dan gebruik je de reguliere huisstijl),
+  - stad Antwerpen geen partner is,
+  - stad Antwerpen enkel praktisch faciliteert zonder partnerschap.
+- Het partnerlogo en het logo van stad Antwerpen staan op hetzelfde niveau: geen van beide domineert.
+- De ruimte tussen beide delen van het logo blijft behouden.
+
+**Specs**
+- De hoogte van beide logo’s is gelijk.
+- Beide logo’s hebben een gelijkaardige optische grootte.
+- De uitlijning is consistent.
+
+**Voorbeelden**
+- Toepassing in communicatie waar de partner-afzender primair is en stad Antwerpen als partner zichtbaar wordt.
+
+---
+
+## 2. Visuele identiteit
+
+### 2.1 Logo’s
+
+#### 2.1.1 A-logo (met baseline)
+**Comment**  
+Het A-logo met baseline is het standaardlogo van Antwerpen.
+
+**Guidelines**
+- Het logo wordt steeds tweekleurig gebruikt.
+- Gebruik bij voorkeur het A-logo met baseline.
+- Gebruik het A-logo zonder baseline enkel in uitzonderlijke situaties.
+- Gebruik het logo bij voorkeur op een witte achtergrond.
+- Gebruik op een rode achtergrond de lijnvariant van het logo.
+- Het logo wordt altijd in zijn originele verhoudingen geplaatst en nooit vervormd.
+
+**Specs**
+- Kleurcodes (A-logo met baseline):
+
+| Element | PMS | CMYK | RGB | HEX |
+|---|---|---|---|---|
+| Achtergrond | PMS 200 C | 3, 100, 70, 12 | 207, 0, 57 | #CF0039 |
+| Letter A en baseline | - | - | 255, 255, 255 | #FFFFFF |
+| Straaltjes | PMS 021 C | 0, 65, 100, 0 | 241, 138, 0 | #F18A00 |
+
+**Assets/Downloads**
+- A-logo met baseline (zip): `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/A%20logo_baseline.zip`
+- A-logo met baseline (zip, Engels): `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/A%20logo_baseline_EN.zip`
+
+---
+
+#### 2.1.2 A-logo met naamsvierkant
+**Comment**  
+Het A-logo met naamsvierkant wordt gebruikt voor entiteiten binnen stad Antwerpen (moedermerk subcategorie 1.2).
+
+**Guidelines**
+- Het naamsvierkant is altijd een vierkant.
+- De stijl van het naamsvierkant is altijd conform de richtlijnen: typografie, opbouw en verhoudingen blijven vast.
+- De tekst in het naamsvierkant bestaat uit:
+  - één naam of
+  - maximum 2 regels
+- Er wordt steeds gewerkt met het lettertype ‘Sun Antwerpen’.
+- Het naamsvierkant wordt gebruikt voor extra herkenbaarheid van diensten/entiteiten.
+
+**Specs**
+- Minimumformaat:
+  - drukwerk: 15 mm
+  - digitaal: 45 px
+- De tekst in het naamsvierkant is wit.
+- De achtergrondkleur van het naamsvierkant wordt gekozen uit het kleurenpalet.
+
+**Voorbeelden**
+- Voorbeelden van naamsvierkanten: “EcoHuis Antwerpen”, “Mobiliteit en parkeren” (zoals in de bron-PDF).
+
+---
+
+#### 2.1.3 Eénkleurig A-logo met naamsvierkant
+**Comment**  
+Een éénkleurige variant is een uitzondering voor entiteiten met een sterk lokale verankering.
+
+**Guidelines**
+- Deze entiteiten maken gebruik van een éénkleurige variant van het A-logo met naamsvierkant onder twee voorwaarden:
+  - Dezelfde éénkleurige variant of een samenstelling op basis van maximum 2 kleuren wordt maximaal gebruikt.
+  - De éénkleurige variant wordt samengesteld op basis van max. 2 kleuren uit het kleurenpalet.
+- Voor signalisatie wordt het officiële A-logo gebruikt.
+
+**Voorbeelden**
+- Districtstoepassingen (zoals in de bron-PDF).
+
+---
+
+### 2.2 Grafische vormgeving
+
+#### 2.2.1 Accenten
+**Comment**  
+Een accent kan gebruikt worden om bepaalde boodschappen extra in de verf te zetten. Het vormt nooit de hoofdboodschap en blijft steeds beperkt tot de absolute essentie.
+
+**Guidelines**
+- Een accent bestaat uit de combinatie van een geometrische vorm en tekst die in deze vorm gezet wordt.
+- Geometrische vorm:
+  - Gebruik één van de 12 basisvormen.
+  - De vorm wordt ingekleurd. Deze kleur maakt deel uit van het kleurenpalet.
+- Tekst:
+  - Zowel ‘Antwerpen’ als ‘Sun Antwerpen’ kunnen gebruikt worden.
+  - De tekst mag schuin geplaatst worden. Dit is uitsluitend mogelijk bij accenten en vormt de enige uitzondering op het gridprincipe.
+  - De kleur van de tekst is wit of maakt deel uit van het kleurenpalet.
+  - Het contrast tussen de tekst- en achtergrondkleur moet de leesbaarheid garanderen. De minimale contrastverhouding is 3:1.
+
+**Gebruik in grafisch ontwerp**
+- Een accent is altijd ondergeschikt aan de hoofdboodschap van de communicatie-uiting.
+- Een accent mag los van het grid, recht of geroteerd en eventueel aflopend worden geplaatst worden.
+- Een accent moet altijd los staan van het A-logo.
+- Op één communicatie-uiting kan maximum één label of accent staan.
+
+**Voorbeelden**
+- Voorbeelden van accenten (zoals in de bron-PDF): “AVANT PREMIERE”, “nu gratis!”, “Zondag 14 mei GROTE OPENING”, toepassingen in event-affiches.
+
+**Assets/Downloads**
+- Illustratorbestand met de 12 basisvormen:
+  - `Basisvormen accent.zip`
+  - AI-formaat: `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/Basisvormen%20accent.zip`
+
+---
+
+#### 2.2.2 Beeldtaal
+**Comment**  
+Beeldtaal is een krachtig hulpmiddel voor doeltreffende communicatie. Uitgesproken en met zorg gekozen beelden verhogen de aandacht van de ontvanger en zijn een middel om ons als merk te differentiëren. Een juiste beeldkeuze helpt de waarden van ons merk uit te dragen. Door het zeer uiteenlopende karakter van de verschillende initiatieven verbonden aan de stad, is het niet aangewezen om een sterk afgebakende fotografie- of illustratiestijl op te leggen. Diversiteit in beeldtaal is een noodzaak. Daarom kiezen we om te werken met twee algemene principes, waaraan steeds voldaan moet worden.
+
+**Guidelines**
+
+**1. Het beeld is authentiek**  
+Kies beelden:
+- in een stijl die de beoogde doelgroep aanspreekt
+- die authenticiteit uitstralen
+- de beelden komen oprecht en geloofwaardig over bij de beoogde doelgroep
+- die minimaal één van de volgende drie kernwaarden in zich dragen:
+  - creatief: het komt inventief uit de hoek
+  - drive: het straalt energie uit
+  - flamboyant: het voedt het fierheidsgevoel
+
+**2. Het beeld is toegankelijk**  
+Kies beelden:
+- met een duidelijke focus op de boodschap
+- met weinig ruis
+
+Kies nooit beelden die:
+- de boodschap verwateren of minder helder maken
+- te complex zijn voor een vlot begrip
+- te abstract zijn of te breed kunnen geïnterpreteerd worden
+- louter decoratief zijn
+
+- Vermijd private merken in je beelden. Hier lees je meer over hoe je merken in beeld brengt: `https://medewerkers.antwerpen.be/nl/overzicht/marketing-en-communicatie/aanvullende-richtlijnen/merken-in-beeld-brengen`
+
+**Tip: foto of illustratie?**
+- Foto’s en video zorgen voor een rechtstreekse informatieoverdracht en zijn hierdoor de beste keuze voor een heldere communicatie.
+- Illustraties en animatie zijn geschikt voor het ondersteunen van complexe boodschappen. Ook bij moeilijk te verkrijgen beeldrechten bieden ze een oplossing.
+
+---
+
+## 3. Motion
+
+### 3.1 Beeldgebruik
+**Comment**  
+Beeldgebruik in motion volgt de huisstijlprincipes: herkenbaar, helder, en met het A-logo correct toegepast.
+
+**Guidelines**
+- Gebruik bij voorkeur het A-logo met baseline.
+- Gebruik het A-logo zonder baseline enkel in uitzonderlijke situaties.
+- Het A-logo wordt bij voorkeur op een witte achtergrond geplaatst.
+- Gebruik op een rode achtergrond de lijnvariant van het logo.
+- Zorg voor voldoende leesbaarheid van titels, ondertitels en grafische tekst.
+- Vermijd drukke achtergronden achter tekst.
+
+**Voorbeelden**
+- Voorbeelden in de bron-PDF (motion stills met A-logo-toepassingen).
+
+---
+
+### 3.2 Eindpancarte
+**Comment**  
+De eindpancarte is het vaste einde van motion/video voor stad Antwerpen. Dit is de plek waar logo(’s), afzender en call-to-action samenkomen.
+
+**Guidelines**
+- Het A-logo komt op de eindpancarte altijd prominent in beeld.
+- De eindpancarte wordt opgebouwd op het Antwerpengrid.
+- Tekst en logo’s volgen vaste uitlijning en vaste marges.
+- Partnerlogo’s en sponsorlogo’s staan steeds samen gegroepeerd, met vaste positie en consistente maatvoering.
+- Gebruik de juiste versie volgens context: stad Antwerpen, district, submerk, stad als partner.
+- Voor social bestaan aparte eindpancartes.
+
+**Voorbeelden**
+- Eindpancarte stad Antwerpen
+- Eindpancarte district
+- Eindpancarte submerk
+- Eindpancarte stad als partner
+- Eindpancarte social
+---
+
+### 3.3 Audiodescriptie
+**Comment**  
+Audiodescriptie is een extra audiolaag die beschrijft wat er visueel te zien is, voor mensen die het beeld niet of minder goed kunnen volgen.
+
+**Guidelines**
+- Maak audiodescriptie wanneer het beeld informatie bevat die niet in de bestaande audio zit.
+- Audiodescriptie beschrijft wat je ziet: acties, setting, relevante tekst in beeld, grafieken en visuele cues.
+- Hou de beschrijving feitelijk en functioneel.
+
+**Assets/Downloads**
+- Gids audiodescriptie (VRT):  
+  `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/VRT_Audiodescriptie_guide_deliverable_2021.pdf`
+
+---
+
+## 4. Digitale richtlijnen (WCAG)
+
+### 4.1 Wat is WCAG en voor wie gelden de richtlijnen?
+**Comment**  
+WCAG (Web Content Accessibility Guidelines) zijn richtlijnen voor het creëren van toegankelijke websites en toepassingen.
+
+**Guidelines**
+- stad Antwerpen wil dat iedereen kan deelnemen aan alles wat we ontwikkelen, online én offline. Dus zijn onze digitale toepassingen, zoals websites, apps, maar ook online documenten, geschikt voor alle gebruikers.
+- Eén op vijf mensen heeft een handicap. Dat is een brede groep met verschillende beperkingen, dus de noden zijn anders. Daarom bestaan er richtlijnen. Het stadsbestuur besliste om alle digitale toepassingen en online documenten te laten voldoen aan de Europese richtlijnen rond toegankelijkheid.
+- De principes van WCAG:
+  - Waarneembaar
+  - Bedienbaar
+  - Begrijpelijk
+  - Robuust
+- In de praktijk: begin altijd bij het begin. Stel je bij elke stap deze vraag: voor wie maak ik deze toepassing? En is ze voor iedereen toegankelijk?
+
+**Van het minste tot het meeste**
+- Begin met de basis: duidelijke tekst, logisch opgebouwd, goed contrast.
+- Voeg pas daarna extra’s toe: video, audio, interactieve onderdelen.
+
+**Tot slot**
+- Test tijdig en herhaal tests doorheen het proces.
+- Laat waar mogelijk testen door gebruikers.
+
+---
+
+### 4.2 Afbeeldingen
+**Comment**  
+Afbeeldingen zijn pas toegankelijk als de inhoud bruikbaar is voor iedereen, ook zonder het beeld.
+
+**Guidelines**
+- Voeg een tekstueel alternatief toe aan betekenisvolle afbeeldingen.
+- Een tekstueel alternatief als ‘foto bij het artikel’ is dus zeer fout.
+- Schrijf alt-tekst als je wil dat de lezer de informatie uit het beeld meekrijgt.
+- Schrijf geen alt-tekst bij decoratieve afbeeldingen.
+
+**Alt-tekst (regels)**
+- Hou het kort en duidelijk.
+- Beschrijf wat relevant is voor de inhoud van de pagina.
+- Vermijd “afbeelding van” of “foto van” als start, tenzij het relevant is.
+- Als er tekst in het beeld staat die relevant is, neem die tekst mee in het alternatief.
+
+**Voorbeelden**
+- Goed: “Anna wandelt door het Stadspark.”
+- Fout: “Foto bij het artikel.”
+
+---
+
+### 4.3 Video en audio
+**Comment**  
+Video en audio moeten bruikbaar zijn voor mensen die niet (goed) horen of zien.
+
+**Guidelines**
+- Voeg ondertitels toe bij video met gesproken tekst.
+- Zorg voor een transcript bij audio.
+- Voeg audiodescriptie toe wanneer het beeld essentiële info bevat die niet in de audio zit.
+
+**Voorbeelden**
+- Ondertiteling bij interviews, uitlegvideo’s en social video met gesproken tekst.
+- Transcript van podcasts of audioberichten.
+
+---
+
+### 4.4 Tekst
+**Comment**  
+Tekst is de basis van digitale toegankelijkheid. Duidelijke structuur en begrijpelijkheid zijn doorslaggevend.
+
+**Guidelines**
+- Gebruik een duidelijke kopstructuur (H1, H2, H3…).
+- Schrijf korte, heldere zinnen.
+- Vermijd overbodige complexiteit.
+- Maak linkteksten betekenisvol (geen “klik hier” als losse linktekst).
+- Gebruik lijsten waar dat de leesbaarheid helpt.
+
+**Voorbeelden**
+- Linktekst: “Vraag een reispas aan” i.p.v. “Klik hier”.
+
+---
+
+### 4.5 Kleur om informatie over te brengen
+**Comment**  
+Kleur mag nooit de enige drager zijn van informatie.
+
+**Guidelines**
+- Gebruik naast kleur ook tekst, iconen of patronen.
+- Zorg voor voldoende contrast tussen tekst en achtergrond.
+- Gebruik dezelfde kleurcodes consistent voor dezelfde betekenis.
+
+**Voorbeelden**
+- Fout: enkel rood/groen zonder extra aanduiding.
+- Goed: rood + icoon + tekstlabel.
+
+---
+
+### 4.6 PDF-bestanden
+**Comment**  
+Alle eisen voor digitale toepassingen gelden ook voor pdf-bestanden.
+
+**Guidelines**
+- Maak pdf’s leesbaar met een logische structuur.
+- Gebruik echte tekst (geen ingescande tekst als afbeelding).
+- Voeg tags en kopstructuur toe.
+- Voeg alt-tekst toe aan betekenisvolle afbeeldingen.
+- Zorg dat links en knoppen bruikbaar zijn met toetsenbord.
+
+---
+
+## 5. Sjablonen & tools
+
+### 5.1 Bestelportaal voor drukwerk
+**Comment**  
+Via het drukwerkportaal kan je standaard drukwerk bestellen en zelf ontwerpen binnen vaste huisstijlregels.
+
+**Guidelines**
+- Op het drukwerkportaal heb je de mogelijkheid om zelf affiches, kaartjes, bladwijzers, dagmappen, persmappen en naamkaartjes te ontwerpen.
+- Deze zijn standaard conform de ontwerprichtlijnen.
+- Brieven zijn niet beschikbaar in dit portaal. Hiervoor gebruik je de Word-template.
+
+**Assets/Downloads**
+- Verdere info staat in het menu van dit portaal als download bij hun respectievelijke richtlijnen.
+- Intern: meer info via het kanaal Marketing en Communicatie.
+
+---
+
+### 5.2 Adobe InDesign
+**Comment**  
+InDesign-sjablonen zijn bedoeld voor wie met Adobe werkt en drukwerk of publicaties opmaakt binnen de huisstijl.
+
+**Guidelines**
+- Op basis van de Antwerpen grid zijn er verschillende templates beschikbaar in InDesign.
+- Deze zijn beschikbaar in verschillende formaten.
+- In de InDesign templates kan je telkens het grid, stijlen en het menu van dit portaal als download vinden bij hun respectievelijke richtlijnen.
+
+---
+
+### 5.3 E-mailsignatuur
+**Comment**  
+De e-mailsignatuur is een standaardblok onder e-mails van stad Antwerpen.
+
+**Guidelines**
+- De e-mailsignatuur bestaat uit een logo, naam, functie, dienst, contactgegevens en vaste disclaimer.
+- Gebruik de juiste versie volgens je entiteit (stad, district, …).
+
+**Specs**
+- Afmetingen en bestanden:
+
+| Onderdeel | Resolutie | Hoogte (px) | Breedte (px) | Bestandstype |
+|---|---:|---:|---:|---|
+| A-logo | 72 dpi | 83 | 83 | .png |
+| Scheidingslijn | 72 dpi | 83 | 6 | .png |
+| Banner | 72 dpi | 83 | 250 | .png |
+| Sociale media iconen | 72 dpi | 25 | 25 | .png |
+
+**Voorbeelden**
+- Disclaimer (tekstblok):
+  - “Vergissen is menselijk. Kreeg je deze e-mail onterecht? Meld het dan aan de afzender. Deze e-mail en de bijlagen zijn namelijk officiële documenten van de stad Antwerpen. Ze kunnen vertrouwelijke of persoonlijke informatie bevatten. Als stad nemen we privacy heel serieus en willen we als een redelijk en zorgvuldig persoon waken over de vertrouwelijkheid van documenten. Als u dit bericht per vergissing hebt ontvangen of ergens hebt gevonden, wees dan zo eerlijk om het meteen te verwijderen en het niet verder te verspreiden of te kopiëren.”
+
+---
+
+### 5.4 Canva Enterprise
+**Comment**  
+Canva Enterprise is een tool om grafisch materiaal te maken met templates in de huisstijl van stad Antwerpen, bedoeld voor medewerkers zonder Adobe-licentie of met nood aan snelle opmaak.
+
+**Guidelines**
+- stad Antwerpen heeft sinds 26 mei 2021 een Canva Enterprise abonnement.
+- Je maakt ontwerpen in Canva via de stad-omgeving (Enterprise), met huisstijl-templates.
+- Je kan Canva gebruiken om snel ontwerpen te maken voor interne of externe communicatie, binnen de merk- en huisstijlrichtlijnen.
+
+**Toegang aanvragen**
+- Vraag toegang aan via e-mail.
+
+**Werken met templates**
+- Gebruik de beschikbare templates om binnen de huisstijl te blijven.
+- Werk in de juiste teamomgeving.
+
+**Problemen (FAQ uit de bron)**
+- Vind je geen templates of kan je niets bewerken, controleer dan of je in de juiste Canva-teamomgeving zit.
+
+---
+
+## 6. Overige toepassingen
+
+### 6.1 Digitale publicaties in Maglr
+**Comment**  
+Maglr wordt gebruikt voor digitale publicaties.
+
+**Guidelines**
+- Digitale publicaties worden opgebouwd in Maglr.
+- Werk met de beschikbare huisstijlcomponenten en hou rekening met digitale toegankelijkheid.
+
+---
+
+### 6.2 Chatbot
+**Comment**  
+Een chatbot is een digitaal kanaal dat gebruikers helpt met snelle antwoorden en doorverwijzingen.
+
+**Guidelines**
+- Een chatbot is geschikt voor:
+  - veelgestelde vragen
+  - eenvoudige wegwijs en doorverwijzing
+  - 24/7 basisinformatie
+- Voorzie content in heldere vraag-antwoordvorm.
+- Denk vooraf na over:
+  - onderwerp en scope
+  - doelpubliek
+  - tone of voice (consistent met stad Antwerpen)
+  - fallback: wat gebeurt er als de chatbot het antwoord niet weet?
+  - links en contactpunten waar nodig
+
+---
+
+### 6.3 Citydressing voor evenementen
+**Comment**  
+Citydressing is een toepassing die zichtbaar maakt dat stad Antwerpen een evenement ondersteunt.
+
+**Guidelines**
+- Citydressing is toepasbaar wanneer:
+  - het evenement georganiseerd wordt door een externe partner en stad Antwerpen ondersteunt dit evenement financieel of inhoudelijk
+  - stad Antwerpen organiseert het evenement niet zelf
+- Citydressing is niet nodig wanneer:
+  - de stad het evenement zelf organiseert (dan gebruik je de reguliere huisstijl)
+  - de stad het evenement niet ondersteunt
+- Het ontwerp is gebaseerd op het stadslogo met naamsvierkant en het Antwerpengrid.
+- De naamsvierkantjes blijven conform de richtlijnen.
+
+**Aanpak voor organisatoren**
+- Voor een eigen evenement kan je een citydressing ontwerp aanvragen.
+- Gebruik de bestekteksten ‘citydressing’ in het opzoekportaal. Zoekwoord: citydressing.
+
+---
+
+## 7. Contact
+- Huisstijl / merk en huisstijl: `huisstijl@antwerpen.be` (komt voor als `huissstijl@antwerpen.be` in de bron)
+- Digitale toegankelijkheid (WCAG): `toegankelijkheid@antwerpen.be`
+- Canva Enterprise: `askcanva@antwerpen.be`
+- Chatbot (aanvraag): `chatbot@antwerpen.be`
+- Chatbot (redactie/content): `chatbot_redactie@antwerpen.be`
 
