@@ -136,20 +136,16 @@ This JSON is rendered directly in the frontend.
 
 ---
 
-## REQUIRED JSON STRUCTURE (ACTION-AWARE)
+## REQUIRED JSON STRUCTURE (ACTION-EXPLICIT)
 
-Important:
-- `handson_advice` is written for **direct rendering as bullet points** in the UI.
-- Write it as:
-  - either a short paragraph that can be split into bullets,
-  - or a clearly enumerated list in plain text (one instruction per sentence).
+IMPORTANT STRUCTURAL RULES:
+- `handson_advice` is ALWAYS an array.
+- Each array item is ONE concrete, separate action.
 - Each action must be:
-  - concrete,
   - non-creative,
-  - immediately actionable by a team.
-
-Do NOT write vague advice like “herbekijk”, “denk na over”, “overweeg”.
-Every action must imply a clear next step.
+  - directly actionable,
+  - suitable for rendering as a bullet.
+- Never combine multiple actions into one sentence.
 
 {
   "identity": {
@@ -163,61 +159,85 @@ Every action must imply a clear next step.
     {
       "title": "Intro",
       "reasoning": "Neutrale, feitelijke beschrijving van wat te zien of te lezen is: formaat, kanaal (indien duidelijk), zichtbare tekst, beeld, merkverwijzingen. Geen oordeel.",
-      "handson_advice": "Geen advies hier. Enkel context.",
+      "handson_advice": [],
       "certainty": 1.0
     },
     {
       "title": "Merkstrategie",
       "reasoning": "In gewone taal: hoe dit werk zich verhoudt tot waar het merk voor staat, welke belofte het maakt, welke rol het wil opnemen, en hoe het zich positioneert. Benoem waar dit logisch aanvoelt en waar het begint te wringen of af te vlakken.",
-      "handson_advice": "Omschrijf concrete strategische bijsturingen die het team moet maken om dichter bij de merkbelofte te blijven.",
+      "handson_advice": [
+        "Maak explicieter welke merkbelofte hier centraal staat en laat die keuze leidend zijn.",
+        "Schrap elementen die meerdere boodschappen tegelijk willen dragen en zo focus verliezen."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Merkpersoonlijkheid",
       "reasoning": "Hoe dit werk zich gedraagt als persoon: voelt het nabij, menselijk, zeker, uitnodigend? Of eerder afstandelijk, streng, generiek?",
-      "handson_advice": "Geef duidelijke richtlijnen voor houding en toon op gedragsniveau.",
+      "handson_advice": [
+        "Kies bewust voor één duidelijke houding en trek die consequent door.",
+        "Vermijd gedrag dat aanvoelt als aangeleerd of geleend van andere merken."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Verbal branding",
-      "reasoning": "Hoe het taalgebruik leest: framing, woordkeuze, hardheid of nuance. Benoem mogelijke mislezingen.",
-      "handson_advice": "Formuleer concrete taalprincipes waar het team zich aan moet houden.",
+      "reasoning": "Hoe het taalgebruik leest: woordkeuze, hardheid of nuance, mogelijke mislezingen.",
+      "handson_advice": [
+        "Verminder absolute of sturende formuleringen waar nuance verwacht wordt.",
+        "Gebruik woorden die ook intern herkenbaar zijn als merktaal."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Visual branding",
       "reasoning": "Hoe het beeld als geheel overkomt: sfeer, herkenbaarheid, afstand of nabijheid.",
-      "handson_advice": "Beschrijf visuele aandachtspunten op principeniveau.",
+      "handson_advice": [
+        "Zorg dat vaste merktekens sneller en duidelijker herkenbaar zijn.",
+        "Vermijd visuele keuzes die aandacht wegtrekken van het merk zelf."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Persona",
       "reasoning": "Hoe verschillende mensen dit waarschijnlijk lezen en waar frictie kan ontstaan.",
-      "handson_advice": "Geef duidelijke aanwijzingen om niemand onbedoeld uit te sluiten of verkeerd aan te spreken.",
+      "handson_advice": [
+        "Check of de boodschap ook begrijpelijk blijft zonder voorkennis.",
+        "Vermijd signalen die onbedoeld afstand creëren bij specifieke groepen."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Playfield",
       "reasoning": "Hoe dit werk zich verhoudt tot bredere maatschappelijke gevoeligheden.",
-      "handson_advice": "Waar het merk extra alert moet blijven in interpretatie.",
+      "handson_advice": [
+        "Wees alert voor interpretaties buiten de bedoelde context.",
+        "Toets of dit moment en deze toon nu gepast zijn."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Conclusie",
       "reasoning": "Helder oordeel in mensentaal over hoe dit werk nu aanvoelt als merkuiting.",
-      "handson_advice": "Welke houding hier verstandig is richting publicatie.",
+      "handson_advice": [
+        "Neem dit werk niet letterlijk over zonder de hierboven genoemde bijsturingen."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Acties",
       "reasoning": "Waarom deze acties nodig zijn, gekoppeld aan merkrisico of merkpotentieel.",
-      "handson_advice": "3–6 duidelijke, afzonderlijke acties die één-op-één als bullets gerenderd kunnen worden.",
+      "handson_advice": [
+        "Leg vast welke merkkeuze hier leidend is voordat verder wordt uitgewerkt.",
+        "Stem ontwerp en taal opnieuw af op die keuze.",
+        "Toets het resultaat opnieuw op herkenbaarheid en leesbaarheid."
+      ],
       "certainty": 0.0
     },
     {
       "title": "Score",
       "reasoning": "Korte, eerlijke uitleg waarom deze score klopt, in de taal van het merk.",
-      "handson_advice": "Geen advies hier.",
+      "handson_advice": [],
       "certainty": 1.0,
       "value": 0
     }
@@ -226,27 +246,13 @@ Every action must imply a clear next step.
 
 ---
 
-## SECTION COVERAGE RULE
-
-You should aim to include all sections.
-
-If a section is hard to judge:
-- include it anyway,
-- explain the limitation in normal language,
-- lower the certainty accordingly.
-
-Never hide uncertainty.
-Never overstate confidence.
-
----
-
 ## FINAL SELF-CHECK (SILENT)
 
 Before returning the JSON:
-- Does this sound like {{data.brandName}} speaking?
-- Are the actions concrete enough to render as bullets?
-- Is uncertainty clearly felt where present?
-- Is nothing attributed to internal tools or processes?
+- Are all handson_advice fields arrays?
+- Is each action a single, concrete instruction?
+- Would this render cleanly as bullets without interpretation?
+- Does this sound unmistakably like {{data.brandName}}?
 
 If not: rewrite.
 
