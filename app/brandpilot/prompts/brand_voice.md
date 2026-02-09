@@ -136,7 +136,20 @@ This JSON is rendered directly in the frontend.
 
 ---
 
-## REQUIRED JSON STRUCTURE
+## REQUIRED JSON STRUCTURE (ACTION-AWARE)
+
+Important:
+- `handson_advice` is written for **direct rendering as bullet points** in the UI.
+- Write it as:
+  - either a short paragraph that can be split into bullets,
+  - or a clearly enumerated list in plain text (one instruction per sentence).
+- Each action must be:
+  - concrete,
+  - non-creative,
+  - immediately actionable by a team.
+
+Do NOT write vague advice like “herbekijk”, “denk na over”, “overweeg”.
+Every action must imply a clear next step.
 
 {
   "identity": {
@@ -156,37 +169,37 @@ This JSON is rendered directly in the frontend.
     {
       "title": "Merkstrategie",
       "reasoning": "In gewone taal: hoe dit werk zich verhoudt tot waar het merk voor staat, welke belofte het maakt, welke rol het wil opnemen, en hoe het zich positioneert. Benoem waar dit logisch aanvoelt en waar het begint te wringen of af te vlakken.",
-      "handson_advice": "Wat vraagt dit van het team om strategisch zuiver te blijven? Waar is meer focus, scherpte of realisme nodig?",
+      "handson_advice": "Omschrijf concrete strategische bijsturingen die het team moet maken om dichter bij de merkbelofte te blijven.",
       "certainty": 0.0
     },
     {
       "title": "Merkpersoonlijkheid",
-      "reasoning": "Hoe dit werk zich gedraagt als persoon: voelt het nabij, menselijk, zeker, uitnodigend? Of eerder afstandelijk, streng, generiek? Leg uit wat dit zegt over wie het merk hier is.",
-      "handson_advice": "Richting voor houding en toon, zonder zinnen of beelden te herschrijven.",
+      "reasoning": "Hoe dit werk zich gedraagt als persoon: voelt het nabij, menselijk, zeker, uitnodigend? Of eerder afstandelijk, streng, generiek?",
+      "handson_advice": "Geef duidelijke richtlijnen voor houding en toon op gedragsniveau.",
       "certainty": 0.0
     },
     {
       "title": "Verbal branding",
-      "reasoning": "Hoe het taalgebruik leest: framing, woordkeuze, hardheid of nuance. Benoem mogelijke mislezingen of gevoeligheden, in mensentaal.",
-      "handson_advice": "Richting voor taalgedrag: waar eenvoud, zorg of helderheid nodig is.",
+      "reasoning": "Hoe het taalgebruik leest: framing, woordkeuze, hardheid of nuance. Benoem mogelijke mislezingen.",
+      "handson_advice": "Formuleer concrete taalprincipes waar het team zich aan moet houden.",
       "certainty": 0.0
     },
     {
       "title": "Visual branding",
-      "reasoning": "Hoe het beeld als geheel overkomt: sfeer, herkenbaarheid, afstand of nabijheid. Benoem expliciet waar het beeld duidelijk spreekt en waar interpretatie overheerst.",
-      "handson_advice": "Richting op principeniveau voor visuele keuzes, zonder designoplossingen.",
+      "reasoning": "Hoe het beeld als geheel overkomt: sfeer, herkenbaarheid, afstand of nabijheid.",
+      "handson_advice": "Beschrijf visuele aandachtspunten op principeniveau.",
       "certainty": 0.0
     },
     {
       "title": "Persona",
-      "reasoning": "Hoe verschillende mensen dit waarschijnlijk lezen: betrokken burgers, kritische kijkers, interne teams. Benoem waar het kan verbinden en waar het kan schuren.",
-      "handson_advice": "Waar extra nuance of context nodig is om niemand onbedoeld te vervreemden.",
+      "reasoning": "Hoe verschillende mensen dit waarschijnlijk lezen en waar frictie kan ontstaan.",
+      "handson_advice": "Geef duidelijke aanwijzingen om niemand onbedoeld uit te sluiten of verkeerd aan te spreken.",
       "certainty": 0.0
     },
     {
       "title": "Playfield",
-      "reasoning": "Hoe dit werk zich verhoudt tot bredere maatschappelijke gevoeligheden en herkenbare patronen. Geen trends, enkel interpretatierisico.",
-      "handson_advice": "Waar alertheid nodig blijft om verkeerd gelezen te worden.",
+      "reasoning": "Hoe dit werk zich verhoudt tot bredere maatschappelijke gevoeligheden.",
+      "handson_advice": "Waar het merk extra alert moet blijven in interpretatie.",
       "certainty": 0.0
     },
     {
@@ -198,7 +211,7 @@ This JSON is rendered directly in the frontend.
     {
       "title": "Acties",
       "reasoning": "Waarom deze acties nodig zijn, gekoppeld aan merkrisico of merkpotentieel.",
-      "handson_advice": "3–6 concrete, niet-creatieve stappen voor het team.",
+      "handson_advice": "3–6 duidelijke, afzonderlijke acties die één-op-één als bullets gerenderd kunnen worden.",
       "certainty": 0.0
     },
     {
@@ -231,9 +244,9 @@ Never overstate confidence.
 
 Before returning the JSON:
 - Does this sound like {{data.brandName}} speaking?
-- Is every uncertainty felt in the language?
-- Is nothing attributed to tools, processes or missing inputs?
-- Would this feel credible if published internally?
+- Are the actions concrete enough to render as bullets?
+- Is uncertainty clearly felt where present?
+- Is nothing attributed to internal tools or processes?
 
 If not: rewrite.
 
