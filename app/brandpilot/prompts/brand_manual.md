@@ -98,11 +98,11 @@ Zorg ervoor dat je communicatie altijd verbindend is en zoveel mogelijk aanleunt
 Onze doelgroepen staan centraal. Als stad communiceren we naar vijf types doelgroepen op basis van de relatie die ze op dat moment met de stad hebben.
 
 **De vijf doelgroepen (definities)**
-- **Medewerkers** — Wie we aanspreken omdat de stad zijn/haar (potentiële) werkgever is.
-- **Talent** — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
-- **Belever** — Wie we willen aanspreken omdat we hen zien als (potentiële) gebruiker van het interne en/of externe beleef- en vrijetijdsaanbod dat Antwerpen te bieden heeft. Deze doelgroep willen we ‘goesting doen krijgen in’ het aanbod. Voor een aantal instellingen wordt hier gekozen voor heel gerichte (internationale) subdoelgroepen.
-- **Local** — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
-- **Corporate** — Wie we willen aanspreken vanuit een zakelijke insteek over het aanbod dat we aan (potentiële) investeerders, organisatoren, ondernemers en/of andere zakelijke partners te bieden hebben.
+- Medewerkers — Wie we aanspreken omdat de stad zijn/haar (potentiële) werkgever is.
+- Talent — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
+- Belever — Wie we willen aanspreken omdat we hen zien als (potentiële) gebruiker van het interne en/of externe beleef- en vrijetijdsaanbod dat Antwerpen te bieden heeft. Deze doelgroep willen we ‘goesting doen krijgen in’ het aanbod. Voor een aantal instellingen wordt hier gekozen voor heel gerichte (internationale) subdoelgroepen.
+- Local — Wie we willen aanspreken over het aanbod dat we in de stad te bieden hebben aan onze kinderen en jongeren, aan (potentiële) studenten en/of werkkrachten.
+- Corporate — Wie we willen aanspreken vanuit een zakelijke insteek over het aanbod dat we aan (potentiële) investeerders, organisatoren, ondernemers en/of andere zakelijke partners te bieden hebben.
 
 ---
 
@@ -363,13 +363,6 @@ Antwerpen is het moedermerk. Deze richtlijnen geven een overzicht van hoe de vis
   - Dezelfde éénkleurige variant of een samenstelling op basis van maximum 2 kleuren wordt maximaal gebruikt. De éénkleurige variant wordt samengesteld op basis van max. 2 kleuren uit het kleurenpalet.
   - Voor signalisatie wordt wel het officiële A-logo gebruikt.
 
-**Assets/Downloads**
-- Verwijzingen naar detailrichtlijnen:
-  - naamsvierkant: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/logo-s/1-2-a-logo-met-naamsvierkant`
-  - éénkleurig: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/logo-s/1-3-eenkleurig-a-logo-met-naamsvierkant`
-  - kleurenpalet: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/grafische-vormgeving/kleuren`
-  - signalisatie: `http://www.antwerpen.be/nl/overzicht/merk-en-huisstijl-1/overige/signalisatie`
-
 ---
 
 ### 1.2 Submerk
@@ -448,6 +441,12 @@ Stad als partner is een toepassing die zichtbaar maakt dat stad Antwerpen een pr
 **Comment**  
 Het A-logo met baseline is het standaardlogo van Antwerpen.
 
+**Beschrijving officieel A-logo zonder baseline**
+Dit logo bestaat uit een strak, vierkant vlak dat volledig is ingevuld met een egale, verzadigde rode kleur. In het exacte midden staat een witte hoofdletter “A”, gezet in een vet, schreefloos lettertype met stevige lijnen en scherpe binnenhoeken. De letter is helder, zuiver en zonder contour, schaduw, reliëf of kleurverloop. Links en rechts van de letter bevinden zich telkens vier korte oranje stralen, in totaal acht. Deze stralen zijn afgeronde rechthoeken met zachte hoeken, identiek van vorm en dikte, en gelijkmatig verdeeld rond het midden van de letter. Ze staan licht schuin geplaatst zodat ze een uitstralend effect creëren, zonder beweging of diepte te suggereren. De compositie is perfect gecentreerd en volledig symmetrisch. Alle elementen zijn plat uitgewerkt, met volle kleuren en scherpe randen. Het logo werkt als een krachtig icoon en leunt volledig op contrast, eenvoud en directe leesbaarheid, zonder decoratie of visuele ruis.
+
+**Beschrijving officieel A-logo met baseline**
+Dit logo is opgebouwd als een samengesmolten woord- en beeldmerk op een rode basisvorm met een uitgesproken, herkenbare contour. Links bevindt zich een vierkant rood vlak waarin centraal een witte hoofdletter “A” staat, gezet in een vet, schreefloos lettertype met rechte lijnen en scherpe binnenvormen. Rond deze letter staan acht korte oranje stralen, vier links en vier rechts, uitgevoerd als afgeronde rechthoeken met gelijke dikte en zachte hoeken, licht schuin geplaatst om een uitstralend accent te geven. Aan dit vierkante vlak sluit rechts een horizontale rode balk aan waarin de witte tekst “Allemaal Antwerpenaar” is opgenomen, verdeeld over twee regels. De typografie is consequent schreefloos, robuust en helder leesbaar, met afgeronde details die aansluiten bij de vormtaal van de stralen. Alle elementen zijn plat uitgewerkt, zonder schaduw, diepte, verloop of textuur. De compositie voelt compact, evenwichtig en functioneert als één geheel, waarbij kleurcontrast en vormconsistentie instaan voor herkenbaarheid, toegankelijkheid en sterke visuele aanwezigheid binnen alle toepassingen.
+
 **Guidelines**
 - Het logo wordt steeds tweekleurig gebruikt.
 - Gebruik bij voorkeur het A-logo met baseline.
@@ -458,16 +457,11 @@ Het A-logo met baseline is het standaardlogo van Antwerpen.
 
 **Specs**
 - Kleurcodes (A-logo met baseline):
-
 | Element | PMS | CMYK | RGB | HEX |
 |---|---|---|---|---|
 | Achtergrond | PMS 200 C | 3, 100, 70, 12 | 207, 0, 57 | #CF0039 |
 | Letter A en baseline | - | - | 255, 255, 255 | #FFFFFF |
 | Straaltjes | PMS 021 C | 0, 65, 100, 0 | 241, 138, 0 | #F18A00 |
-
-**Assets/Downloads**
-- A-logo met baseline (zip): `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/A%20logo_baseline.zip`
-- A-logo met baseline (zip, Engels): `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/A%20logo_baseline_EN.zip`
 
 ---
 
@@ -593,9 +587,6 @@ Beeldgebruik in motion volgt de huisstijlprincipes: herkenbaar, helder, en met h
 - Zorg voor voldoende leesbaarheid van titels, ondertitels en grafische tekst.
 - Vermijd drukke achtergronden achter tekst.
 
-**Voorbeelden**
-- Voorbeelden in de bron-PDF (motion stills met A-logo-toepassingen).
-
 ---
 
 ### 3.2 Eindpancarte
@@ -626,10 +617,6 @@ Audiodescriptie is een extra audiolaag die beschrijft wat er visueel te zien is,
 - Maak audiodescriptie wanneer het beeld informatie bevat die niet in de bestaande audio zit.
 - Audiodescriptie beschrijft wat je ziet: acties, setting, relevante tekst in beeld, grafieken en visuele cues.
 - Hou de beschrijving feitelijk en functioneel.
-
-**Assets/Downloads**
-- Gids audiodescriptie (VRT):  
-  `https://media.antwerpen.be/download/14/N/N2JHiRHIEQPdM8e3OT9e3l1/VRT_Audiodescriptie_guide_deliverable_2021.pdf`
 
 ---
 
@@ -681,37 +668,6 @@ Afbeeldingen zijn pas toegankelijk als de inhoud bruikbaar is voor iedereen, ook
 
 ---
 
-### 4.3 Video en audio
-**Comment**  
-Video en audio moeten bruikbaar zijn voor mensen die niet (goed) horen of zien.
-
-**Guidelines**
-- Voeg ondertitels toe bij video met gesproken tekst.
-- Zorg voor een transcript bij audio.
-- Voeg audiodescriptie toe wanneer het beeld essentiële info bevat die niet in de audio zit.
-
-**Voorbeelden**
-- Ondertiteling bij interviews, uitlegvideo’s en social video met gesproken tekst.
-- Transcript van podcasts of audioberichten.
-
----
-
-### 4.4 Tekst
-**Comment**  
-Tekst is de basis van digitale toegankelijkheid. Duidelijke structuur en begrijpelijkheid zijn doorslaggevend.
-
-**Guidelines**
-- Gebruik een duidelijke kopstructuur (H1, H2, H3…).
-- Schrijf korte, heldere zinnen.
-- Vermijd overbodige complexiteit.
-- Maak linkteksten betekenisvol (geen “klik hier” als losse linktekst).
-- Gebruik lijsten waar dat de leesbaarheid helpt.
-
-**Voorbeelden**
-- Linktekst: “Vraag een reispas aan” i.p.v. “Klik hier”.
-
----
-
 ### 4.5 Kleur om informatie over te brengen
 **Comment**  
 Kleur mag nooit de enige drager zijn van informatie.
@@ -727,147 +683,48 @@ Kleur mag nooit de enige drager zijn van informatie.
 
 ---
 
-### 4.6 PDF-bestanden
-**Comment**  
-Alle eisen voor digitale toepassingen gelden ook voor pdf-bestanden.
+### 5. Goede voorbeelden van ontwerpen, toepassingen van assets, ...
+### 5.1 Voorbeeld 1 - Campagne Antwerpen als hoofdmerk
+Het beeld is een verticale fotografie-opname in een binnenruimte die herkenbaar is als een klas- of opvanglokaal voor jonge kinderen. De setting is warm en menselijk, met een duidelijke focus op interactie en nabijheid. De ruimte bevat houten stoelen en tafels op kinderhoogte, open wandrekken met speelgoed, knutselmateriaal en educatieve objecten. De achtergrond is licht onscherp, wat de aandacht richting de voorgrond stuurt. De belichting is zacht en egaal, afkomstig van kunstlicht binnen, met warme kleurtonen die het geheel een toegankelijke en vriendelijke uitstraling geven.
+Rechts in beeld bevindt zich een volwassen vrouw, half in beeld, van borst tot hoofd zichtbaar. Ze kijkt rechtstreeks in de camera en glimlacht. Haar houding is licht naar voren gericht, wat betrokkenheid suggereert. Ze draagt een mouwloos, ribgebreid rood bovenstuk met ronde hals. De kleur sluit nauw aan bij het rood van de visuele identiteit in het beeld. Haar haar is halflang, bruin, met een natuurlijke textuur en een lichte pony. Ze draagt geen opvallende accessoires. In haar rechterhand houdt ze een wit schrijfinstrument (krijt of stift) dat zich dicht bij de lens bevindt, wat een licht perspectivisch effect creëert. Haar hand is scherp zichtbaar, wat het gevoel geeft dat ze iets schrijft op een transparant oppervlak tussen haar en de kijker.
+Verspreid over het midden en de achtergrond staan meerdere jonge kinderen van diverse uiterlijke kenmerken en huidskleuren. Ze bevinden zich rond tafels en stoelen, sommige staand, andere zittend. Meerdere kinderen steken hun hand op of zwaaien richting camera. Hun gezichtsuitdrukkingen variëren van nieuwsgierig tot vrolijk. De kleding is casual en kleurrijk, met tinten blauw, groen, rood en beige. Eén kind op de voorgrond links draagt een lichtblauwe cardigan en kijkt recht in de camera met opgeheven arm. De groep vormt een visuele massa die dynamiek en collectiviteit uitstraalt zonder individuele hiërarchie.
+Over het centrale deel van het beeld is een witte, handgeschreven typografie geplaatst met de tekst “Allemaal Antwerpenaar”. De letters zijn cursief, vloeiend en onregelmatig, met variatie in lijndikte. De tekst lijkt geschreven te zijn met hetzelfde schrijfinstrument dat de vrouw vasthoudt, wat een directe visuele relatie legt tussen beeld en tekst. De tekst overlapt zowel de kinderen als delen van de volwassene, zonder kader of achtergrondvlak. De plaatsing is centraal en licht diagonaal, wat het beeld een informele en persoonlijke laag geeft.
+Onderaan links in beeld staat een tweede tekstlaag: “Allemaal samen voor onze stad.” Deze tekst is gezet in een strak, schreefloos lettertype in witte kleur. De tekst is links uitgelijnd en staat los van de handgeschreven typografie erboven. De lettervormen zijn geometrisch en consistent, wat een duidelijk contrast vormt met het organische handschrift. De slogan bevindt zich rechtstreeks op het fotografische beeld, zonder kleurvlak of schaduw.
+Onderaan rechts staat het logo *Allemaal Antwerpenaar*. Het logo bestaat uit een rood rechthoekig vlak met links een vierkant icoon en rechts typografie. In het icoon staat een witte hoofdletter “A”, geflankeerd door korte oranje stralen. Rechts van het icoon staat de witte tekst “Allemaal Antwerpenaar” op twee regels, in een afgerond schreefloos lettertype. Het logo is scherp, contrastrijk en duidelijk afgescheiden van de foto door zijn eigen kleurvlak. Het fungeert als sluitstuk van de compositie en merkverankering.
+Het beeld gebruikt een warm kleurenpalet met dominante rode accenten, aangevuld door natuurlijke houttinten en zachte pastelkleuren in kleding en interieur. Wit wordt ingezet voor typografie en logo-elementen. Oranje fungeert als secundair accent binnen het logo. Het contrast tussen fotografie en grafische elementen is helder, zonder visuele ruis of complexe effecten.
+De visuele hiërarchie start bij de volwassene in de voorgrond, gevolgd door de groep kinderen, daarna de handgeschreven tekst, de slogan en ten slotte het logo. De combinatie van fotografische nabijheid, directe blik en schrijvende hand creëert een gevoel van participatie. Alle grafische toevoegingen zijn plat en functioneel ingezet, zonder schaduw, verloop of dieptewerking.
+Het beeld combineert documentaire fotografie met grafische merkassets. Menselijke interactie, diversiteit en collectiviteit staan centraal. Typografie en logo zijn duidelijk herkenbaar en consistent met een stedelijke, inclusieve merkidentiteit. Het geheel werkt als een referentiekader voor toon, beeldtaal, compositie en merktoepassing.
 
-**Guidelines**
-- Maak pdf’s leesbaar met een logische structuur.
-- Gebruik echte tekst (geen ingescande tekst als afbeelding).
-- Voeg tags en kopstructuur toe.
-- Voeg alt-tekst toe aan betekenisvolle afbeeldingen.
-- Zorg dat links en knoppen bruikbaar zijn met toetsenbord.
+### 5.2 Voorbeeld 2 - Campagne Antwerpen als submerk
+Het beeld is een verticale affiche met een historische zwart-witfoto als basis. De foto toont een grote groep mensen op straat tijdens een publiek moment van collectieve emotie. De setting is een stedelijke buitenruimte, herkenbaar aan gevels op de achtergrond en een dicht opeengepakte menigte op de voorgrond en in de diepte van het beeld. De opname is licht korrelig en vertoont kenmerken van archieffotografie uit het midden van de twintigste eeuw, zoals beperkte scherpte, zachte contrasten en een ongelijkmatige belichting. Over de volledige foto ligt een transparante groenige kleurzweem die het beeld visueel uniform maakt en het archivalische karakter versterkt.
+Op de voorgrond bevinden zich meerdere volwassenen, mannen en vrouwen, dicht bij elkaar opgesteld. Verschillende personen heffen hun armen omhoog of zwaaien, wat een gevoel van beweging en emotionele intensiteit oproept. Hun kleding bestaat uit jassen, jurken en vesten die typerend zijn voor de jaren 1940. Gezichtsuitdrukkingen variëren van glimlachend tot ernstig. De menigte strekt zich uit tot diep in het beeld, waardoor een sterk gevoel van massa en collectiviteit ontstaat zonder dat één individu dominant wordt.
+Linksboven in het beeld staat een verticaal, rechthoekig blauw vlak. In dit vlak is een wit pictogram van een vogel geplaatst, gecombineerd met de tekst “Altijd Vrij” in grote witte hoofdletters. Onder deze titel staat kleinere witte tekst die functioneert als onderschrift of duiding. De typografie is strak, schreefloos en contrastrijk tegen het blauwe vlak. Dit element staat los van de foto en functioneert als duidelijk afgebakende campagnelaag.
+Onderaan links in het beeld staat de tekst “expo” in kleine witte letters, gevolgd door de hoofdtitel “Vreugde & Verdriet”. Deze titel is gezet in een groot, afgerond schreefloos lettertype in wit, met een duidelijke hiërarchie tussen de woorden. Onder de titel staat een subtitel in kleinere witte letters: “Antwerpen bevrijd (1944–1945)”. De tekst staat rechtstreeks op de foto, zonder apart kleurvlak, en blijft goed leesbaar door het contrast met de donkere delen van het beeld.
+Rechts onder de hoofdtitel, iets hoger dan de onderrand, staat aanvullende informatie in witte, handmatig ogende letters: “tot 31 mei 2020 in het Felixarchief”. Deze tekst is licht schuin geplaatst en wijkt typografisch af van de rest van de affiche, wat een informeler accent toevoegt binnen de verder strakke opbouw.
+Onderaan rechts bevinden zich twee logo’s. Het eerste is het logo van het Vredescentrum, geplaatst in een wit rechthoekig vlak met blauwe en grijze typografie en een vogelicoon. Naast dit logo staat het logo *Allemaal Antwerpenaar*, bestaande uit een rood vierkant met een witte hoofdletter “A” en oranje stralen, gecombineerd met witte typografie op een rood vlak. Beide logo’s zijn scherp weergegeven en duidelijk losgekoppeld van de foto door hun eigen kleurvlakken.
+Het kleurenpalet bestaat hoofdzakelijk uit zwart-wit fotografie met een groene overlay, aangevuld met sterke grafische accenten in blauw, wit, rood en oranje. Het contrast tussen historische beeldtaal en hedendaagse grafische elementen is duidelijk afgelijnd en functioneel. De visuele hiërarchie start bij de massa mensen in de foto, gevolgd door de titel van de expo, daarna de aanvullende informatie en ten slotte de logo’s.
+Het geheel combineert erfgoedfotografie met hedendaagse stedelijke branding. De campagne balanceert tussen emotionele lading en informatieve helderheid, met een duidelijke positionering binnen een cultureel en maatschappelijk kader. Het beeld fungeert als referentie voor hoe historische inhoud, publieke ruimte en stedelijke merkidentiteit samen worden gebracht binnen één visuele drager.
 
----
-
-## 5. Sjablonen & tools
-
-### 5.1 Bestelportaal voor drukwerk
-**Comment**  
-Via het drukwerkportaal kan je standaard drukwerk bestellen en zelf ontwerpen binnen vaste huisstijlregels.
-
-**Guidelines**
-- Op het drukwerkportaal heb je de mogelijkheid om zelf affiches, kaartjes, bladwijzers, dagmappen, persmappen en naamkaartjes te ontwerpen.
-- Deze zijn standaard conform de ontwerprichtlijnen.
-- Brieven zijn niet beschikbaar in dit portaal. Hiervoor gebruik je de Word-template.
-
-**Assets/Downloads**
-- Verdere info staat in het menu van dit portaal als download bij hun respectievelijke richtlijnen.
-- Intern: meer info via het kanaal Marketing en Communicatie.
-
----
-
-### 5.2 Adobe InDesign
-**Comment**  
-InDesign-sjablonen zijn bedoeld voor wie met Adobe werkt en drukwerk of publicaties opmaakt binnen de huisstijl.
-
-**Guidelines**
-- Op basis van de Antwerpen grid zijn er verschillende templates beschikbaar in InDesign.
-- Deze zijn beschikbaar in verschillende formaten.
-- In de InDesign templates kan je telkens het grid, stijlen en het menu van dit portaal als download vinden bij hun respectievelijke richtlijnen.
+### 5.3 Voorbeeld 3 – Campagne Stad als Partner
+Het beeld is een horizontale fotografie-opname in een stedelijke buitenruimte, herkenbaar als een buurtplein of parkzone met bomen, fietsstallingen en omliggende bebouwing. De setting is overdag, met natuurlijk daglicht en zachte schaduwen die wijzen op zonnig weer met lichte filtering door het bladerdek. De sfeer is open en alledaags, met nadruk op publieke ruimte en interactie tussen stad en burger.
+Links in beeld staat een groot digitaal infobord in een zwarte, rechthoekige behuizing, frontaal geplaatst en duidelijk herkenbaar als functioneel stedelijk object. Op het scherm staat de titel “Antwerp Smart Zone” in een rood vlak met witte typografie, gevolgd door informatieve tekst en een blauwe call-to-actionknop.
+Voor het scherm staan een volwassen vrouw en een jong kind, grotendeels met de rug naar de camera gericht. De vrouw draagt een rood bovenstuk en een blauwe jeans, het kind een licht jurkje en sneakers. Het kind strekt een arm omhoog richting het scherm, terwijl de vrouw het kind begeleidt, wat een actieve interactie suggereert tussen gebruiker en stedelijke technologie.
+In het midden en rechts van het beeld zet de publieke ruimte zich voort met bomen, wandelpaden en andere stadsgebruikers op afstand, waaronder een spelend of lopend kind en passerende volwassenen. Deze figuren blijven ondergeschikt aan de hoofdactie en versterken het beeld van dagelijks stadsgebruik zonder individuele focus.
+Rechtsboven in beeld staat het logo “Antwerp Smart Zone” in een rood, getrapt vlak met witte, schreefloze typografie. Dit element staat los van de fotografie en fungeert als duidelijk campagnemerk.
+Centraal rechts is de campagnetekst “Hoe maken we de stad nog slimmer?” geplaatst in grote, witte, afgeronde schreefloze letters, rechtstreeks op het beeld en goed leesbaar tegen de groene en grijze achtergrond.
+Onder deze tekst staat een blauw rechthoekig vlak met witte typografie “Surf naar antwerpsmartzone.be”, dat fungeert als duidelijke oproep tot actie.
+Onderaan links bevinden zich meerdere logo’s in witte uitvoering, waaronder het stedelijke “A”-icoon, het label “City of Things” en het logo “imec”. Deze zijn subtiel geïntegreerd in het beeld zonder afzonderlijke kleurvlakken.
+Het kleurenpalet combineert natuurlijke groentinten en aardekleuren uit de omgeving met uitgesproken grafische accenten in rood, blauw en wit die verwijzen naar de stedelijke merkidentiteit.
+De visuele hiërarchie start bij de interactie tussen mens en digitaal scherm, gevolgd door de centrale vraag, daarna de call-to-action en tot slot de partnerlogo’s.
+Het beeld positioneert de stad expliciet als partner en facilitator, waarbij technologie, publieke ruimte en burgers samenkomen in een herkenbare en toegankelijke context.
 
 ---
 
-### 5.3 E-mailsignatuur
-**Comment**  
-De e-mailsignatuur is een standaardblok onder e-mails van stad Antwerpen.
-
-**Guidelines**
-- De e-mailsignatuur bestaat uit een logo, naam, functie, dienst, contactgegevens en vaste disclaimer.
-- Gebruik de juiste versie volgens je entiteit (stad, district, …).
-
-**Specs**
-- Afmetingen en bestanden:
-
-| Onderdeel | Resolutie | Hoogte (px) | Breedte (px) | Bestandstype |
-|---|---:|---:|---:|---|
-| A-logo | 72 dpi | 83 | 83 | .png |
-| Scheidingslijn | 72 dpi | 83 | 6 | .png |
-| Banner | 72 dpi | 83 | 250 | .png |
-| Sociale media iconen | 72 dpi | 25 | 25 | .png |
-
-**Voorbeelden**
-- Disclaimer (tekstblok):
-  - “Vergissen is menselijk. Kreeg je deze e-mail onterecht? Meld het dan aan de afzender. Deze e-mail en de bijlagen zijn namelijk officiële documenten van de stad Antwerpen. Ze kunnen vertrouwelijke of persoonlijke informatie bevatten. Als stad nemen we privacy heel serieus en willen we als een redelijk en zorgvuldig persoon waken over de vertrouwelijkheid van documenten. Als u dit bericht per vergissing hebt ontvangen of ergens hebt gevonden, wees dan zo eerlijk om het meteen te verwijderen en het niet verder te verspreiden of te kopiëren.”
-
----
-
-### 5.4 Canva Enterprise
-**Comment**  
-Canva Enterprise is een tool om grafisch materiaal te maken met templates in de huisstijl van stad Antwerpen, bedoeld voor medewerkers zonder Adobe-licentie of met nood aan snelle opmaak.
-
-**Guidelines**
-- stad Antwerpen heeft sinds 26 mei 2021 een Canva Enterprise abonnement.
-- Je maakt ontwerpen in Canva via de stad-omgeving (Enterprise), met huisstijl-templates.
-- Je kan Canva gebruiken om snel ontwerpen te maken voor interne of externe communicatie, binnen de merk- en huisstijlrichtlijnen.
-
-**Toegang aanvragen**
-- Vraag toegang aan via e-mail.
-
-**Werken met templates**
-- Gebruik de beschikbare templates om binnen de huisstijl te blijven.
-- Werk in de juiste teamomgeving.
-
-**Problemen (FAQ uit de bron)**
-- Vind je geen templates of kan je niets bewerken, controleer dan of je in de juiste Canva-teamomgeving zit.
-
----
-
-## 6. Overige toepassingen
-
-### 6.1 Digitale publicaties in Maglr
-**Comment**  
-Maglr wordt gebruikt voor digitale publicaties.
-
-**Guidelines**
-- Digitale publicaties worden opgebouwd in Maglr.
-- Werk met de beschikbare huisstijlcomponenten en hou rekening met digitale toegankelijkheid.
-
----
-
-### 6.2 Chatbot
-**Comment**  
-Een chatbot is een digitaal kanaal dat gebruikers helpt met snelle antwoorden en doorverwijzingen.
-
-**Guidelines**
-- Een chatbot is geschikt voor:
-  - veelgestelde vragen
-  - eenvoudige wegwijs en doorverwijzing
-  - 24/7 basisinformatie
-- Voorzie content in heldere vraag-antwoordvorm.
-- Denk vooraf na over:
-  - onderwerp en scope
-  - doelpubliek
-  - tone of voice (consistent met stad Antwerpen)
-  - fallback: wat gebeurt er als de chatbot het antwoord niet weet?
-  - links en contactpunten waar nodig
-
----
-
-### 6.3 Citydressing voor evenementen
-**Comment**  
-Citydressing is een toepassing die zichtbaar maakt dat stad Antwerpen een evenement ondersteunt.
-
-**Guidelines**
-- Citydressing is toepasbaar wanneer:
-  - het evenement georganiseerd wordt door een externe partner en stad Antwerpen ondersteunt dit evenement financieel of inhoudelijk
-  - stad Antwerpen organiseert het evenement niet zelf
-- Citydressing is niet nodig wanneer:
-  - de stad het evenement zelf organiseert (dan gebruik je de reguliere huisstijl)
-  - de stad het evenement niet ondersteunt
-- Het ontwerp is gebaseerd op het stadslogo met naamsvierkant en het Antwerpengrid.
-- De naamsvierkantjes blijven conform de richtlijnen.
-
-**Aanpak voor organisatoren**
-- Voor een eigen evenement kan je een citydressing ontwerp aanvragen.
-- Gebruik de bestekteksten ‘citydressing’ in het opzoekportaal. Zoekwoord: citydressing.
-
----
-
-## 7. Contact
+## 6. Contact
 - Huisstijl / merk en huisstijl: `huisstijl@antwerpen.be` (komt voor als `huissstijl@antwerpen.be` in de bron)
 - Digitale toegankelijkheid (WCAG): `toegankelijkheid@antwerpen.be`
 - Canva Enterprise: `askcanva@antwerpen.be`
 - Chatbot (aanvraag): `chatbot@antwerpen.be`
 - Chatbot (redactie/content): `chatbot_redactie@antwerpen.be`
+
 
