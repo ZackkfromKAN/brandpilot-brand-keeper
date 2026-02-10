@@ -182,16 +182,11 @@ def brand_voice_reporter(state: State):
     analysis = state.get("content_analysis_json") or {}
 
     # Feed the voice node the *useful* stuff (chat-style), not the whole dump.
+    # NOTE: content_analysis is intentionally passed through as-is:
+    # the analyzer output can be any valid JSON shape.
     payload = {
         "brand_name": brand_name,
-        "content_analysis": {
-            "content": (analysis.get("content") or {}),
-            "mood": (analysis.get("mood") or {}),
-            "copy": (analysis.get("copy") or {}),
-            "visual_assets": (analysis.get("visual_assets") or {}),
-            "audience_signals": (analysis.get("audience_signals") or {}),
-            "strategy_signals": (analysis.get("strategy_signals") or {}),
-        },
+        "content_analysis": analysis,
         "brand_critique": {
             "submitted_asset_summary": critique.get("submitted_asset_summary", {}),
             "ship_decision": critique.get("ship_decision", {}),
